@@ -6,4 +6,4 @@ author_profile: true
 comments: true
 ---
 
-Contact
+Contact: is it needed given sidebar?
