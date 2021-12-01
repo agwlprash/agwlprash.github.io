@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prashant"
+  name             : "SMSL"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : #"I am an **amazing** person."
+  location         : "Northumbria University<br>Newcastle upon Tyne"
+  email            : "SMSL@northumbria.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
