@@ -1,7 +1,7 @@
 ---
 title:  "Contact"
 layout: archive
-permalink: /CO=ontact/
+permalink: /Contact/
 author_profile: true
 comments: true
 ---
