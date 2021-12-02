@@ -2,7 +2,9 @@
 title:  "Research"
 layout: splash
 permalink: /Research/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "docs"
 comments: true
 ---
 
