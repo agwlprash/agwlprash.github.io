@@ -1,4 +1,4 @@
-r---
+---
 title:  "People"
 layout: archive
 permalink: /People/
