@@ -9,4 +9,11 @@ comments: true
 
 ## Soft matter
 
-<a href="https://agwlprash.github.io/agwlprashtemp.github.io/Droplet_dynamics/" class="btn--success">Success Button</a>
+
+[Primary Button Text]("https://agwlprash.github.io/agwlprashtemp.github.io/Droplet_dynamics/"){: .btn}
+[Success Button Text](#link){: .btn .btn--success}
+[Warning Button Text](#link){: .btn .btn--warning}
+[Danger Button Text](#link){: .btn .btn--danger}
+[Info Button Text](#link){: .btn .btn--info}
+[Inverse Button](#link){: .btn .btn--inverse}
+[Light Outline Button](#link){: .btn .btn--light-outline}
