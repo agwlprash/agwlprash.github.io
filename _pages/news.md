@@ -2,7 +2,6 @@
 title:  "News"
 layout: tags
 permalink: /News/
-author_profile: true
-footer: false
+#author_profile: true
 #comments: true
 ---
