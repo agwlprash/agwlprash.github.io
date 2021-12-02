@@ -3,6 +3,7 @@ title:  "People"
 layout: archive
 permalink: /People/
 author_profile: true
+entries_layout: grid
 comments: true
 ---
 
