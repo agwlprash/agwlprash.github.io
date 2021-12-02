@@ -18,7 +18,7 @@ docs:
       - title: "Droplet dynamics"
         url: /Research/Soft_Matter/Droplet_dynamics/
       - title: "Surfaces"
-        url: /docs/structure/
+        url: /docs/about/
   - title: Smart Microsystems
     children:
       - title: "A"
