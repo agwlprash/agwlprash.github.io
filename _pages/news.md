@@ -1,7 +1,6 @@
 ---
 title:  "News"
-#layout: tags
-layout: collection
+layout: tags
 permalink: /News/
 author_profile: true
 entries_layout: grid
