@@ -1,6 +1,6 @@
 ---
 title:  "People"
-layout: archive
+layout: collection
 permalink: /People/
 author_profile: true
 entries_layout: grid
