@@ -1,4 +1,12 @@
-
+---
+title:  "People"
+layout: collection
+permalink: /People/
+author_profile: true
+entries_layout: grid
+classes: wide
+#comments: true
+---
 
 
 {% for staff_member in site.staff_members %}
