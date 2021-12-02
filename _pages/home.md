@@ -27,5 +27,5 @@ We study:<br>
     <li>We use a wide range of experimental techniques and approaches, including surface acoustic waves (SAWs), electrowetting (EWOD), the Leidenfrost effect (both bulk and selective), high speed video, contact angle goniometry and surface characterisation methods from laser scanning confocal microscopy (LSCM) to scanning electron microscopy (SEM) and atomic force microscopy (AFM)</li>
 </ul>
 We complement all we do with analytical and computational modelling, Lattice-Boltzmann, finite element and other complementary techniques ensuring a close and supportive collaboration between experiment and theory.<br><br>
-Our recent research has been conducted in collaboration with a range of UK and international universities and with the support of the UK Engineering & Physical Sciences Research Council (EPSRC), Innovate UK, The Royal Society, European Commission, industrial partners. <br>
+Our recent research has been conducted in collaboration with a range of UK and international universities and with the support of the UK Engineering & Physical Sciences Research Council (EPSRC), Innovate UK, The Royal Society, European Commission, industrial partners.<br><br>
 We lead Special Interest Groups (SIGs) on "Acoustofluidics" and "Droplet and Flow Interactions with Bioinspired and Smart Surfaces" in the EPSRC-funded UK Fluids Network (UKFN).
