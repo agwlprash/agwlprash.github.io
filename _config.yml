@@ -278,6 +278,9 @@ compress_html:
   ignore:
     envs: development
 
+collection:
+  staff_members:
+    people: true
 
 # Defaults
 defaults:
