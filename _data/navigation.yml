@@ -18,7 +18,7 @@ docs:
       - title: "Droplet dynamics"
         url: /Droplet_dynamics/
       - title: "Surfaces"
-        url: /docs/about/
+        url: /Surfaces/
   - title: Smart Microsystems
     children:
       - title: "A"
@@ -50,4 +50,4 @@ docs:
       - title: "B"
         url: /docs/navigation/
   - title: Facilities/capabilities
-    url: /Research/Facilities/
+    url: /Facilities/
