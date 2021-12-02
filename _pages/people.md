@@ -5,7 +5,7 @@ permalink: /People/
 author_profile: true
 comments: true
 ---
-<a href="https://www.northumbria.ac.uk"> <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_PA.png" alt="PA" style="float: left;width: 10%"/> </a>
+<a href="https://www.northumbria.ac.uk"> <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_PA.png" alt="PA" style="float: left;width: 15%"/> </a>
 Prashant Agrawal <br>
 Multiphase flow, BPA, soft matter <br>
 <a href="https://scholar.google.co.in/citations?user=GGesizEAAAAJ&hl=en"> <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 5%"/> </a>
