@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-layout: splash
+layout: archive
 permalink: /Research/
 author_profile: false
 sidebar:
