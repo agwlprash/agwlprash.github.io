@@ -280,8 +280,8 @@ compress_html:
 
 collection:
   staff_members:
-    people: true
     output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _staff_members
