@@ -281,6 +281,7 @@ compress_html:
 collection:
   staff_members:
     people: true
+    output: true
 
 # Defaults
 defaults:
