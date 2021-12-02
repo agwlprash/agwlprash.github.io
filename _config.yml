@@ -129,7 +129,6 @@ author:
 
 # Site Footer
 footer:
-  image: ![Alt text](/assets/NU_Logo_White.png "a title")
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
