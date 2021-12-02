@@ -1,6 +1,6 @@
 ---
 title:  "Home"
-layout: archive
+layout: splash
 permalink: /
 header:
   image: /assets/SMSLbanner.jpg
