@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/SMSLbanner.jpg
   overlay_filter: 0.5
   tagline: "test"
-  caption: "Photo credit: [**SMSL**](https://SMSL.com)"
+  caption: "Photo credit: [**Nic Geraldi**]"#(https://SMSL.com)"
   actions:
     - label: "Download"
       url: "https://github.com"  
