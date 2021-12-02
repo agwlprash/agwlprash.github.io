@@ -3,7 +3,12 @@ title:  "Home"
 layout: splash
 permalink: /
 header:
-  image: /assets/SMSLbanner.jpg
+  overlay_image: /assets/SMSLbanner.jpg
+  overlay_filter: 0.5
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Download"
+      url: "https://github.com"  
 author_profile: true
 comments: true
 ---
