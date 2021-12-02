@@ -7,7 +7,7 @@ sidebar:
 comments: true
 ---
 
-<a href="www.google.co.uk"> # Soft Matter </a>
+<a href="http://www.google.co.uk"> # Soft Matter </a>
 
 # Smart Microsystems
 
