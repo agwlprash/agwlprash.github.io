@@ -9,7 +9,7 @@ header:
   tagline: "test"
   caption: "Photo credit: [Nic Geraldi]"#(https://SMSL.com)"
   actions:
-    - label: "Download"
+    - label: "Button"
       url: "https://github.com"  
 #author_profile: true
 comments: true
