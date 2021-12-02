@@ -1,9 +1,6 @@
 ---
 title:  "Contact"
-layout: splash
-classes:
-  - landing
-  - air-theme
+layout: single
 permalink: /Contact/
 author_profile: true
 comments: true
