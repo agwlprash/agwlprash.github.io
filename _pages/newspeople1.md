@@ -1,10 +1,11 @@
 ---
-title:  "People"
+title:  "People1"
 layout: collection
 permalink: /People/
+collection: staff_members
 author_profile: true
-entries_layout: grid
-classes: wide
+#entries_layout: grid
+#classes: wide
 #comments: true
 ---
 
