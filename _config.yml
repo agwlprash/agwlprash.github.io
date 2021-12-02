@@ -283,6 +283,16 @@ collection:
     people: true
     output: true
 
+defaults:
+  # _staff_members
+  - scope:
+      path: ""
+      type: staff_members
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 # Defaults
 defaults:
   # _posts
