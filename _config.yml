@@ -151,6 +151,7 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:your.name@email.com"
+    - ![Alt text](/assets/NU_Logo_White.png "a title")
 
 
 # Reading Files
