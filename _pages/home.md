@@ -3,7 +3,7 @@ title:  "Home"
 layout: archive
 permalink: /Home/
 header:
-  image: /assets/IMG.JPG
+  image: /assets/SMSLbanner.jpg
 author_profile: true
 comments: true
 ---
