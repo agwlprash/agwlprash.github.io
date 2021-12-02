@@ -1,8 +1,8 @@
 ---
-#title:  "Home"
+title:  "Smart Materials and Surfaces Laboratory"
 layout: splash
 permalink: /
-excerpt: Testing text
+excerpt: #Testing text
 header:
   overlay_image: /assets/SMSLbanner.jpg
   overlay_filter: 0.5
