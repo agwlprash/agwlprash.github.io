@@ -1,14 +1,12 @@
 ---
-title:  "People1"
+title:  "Staff"
 layout: collection
 permalink: /People/
 collection: staff_members
-author_profile: true
-#entries_layout: grid
-#classes: wide
+entries_layout: grid
+classes: wide
 #comments: true
 ---
-
 
 {% for staff_member in site.staff_members %}
   <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
