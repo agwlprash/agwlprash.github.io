@@ -13,27 +13,17 @@ main:
   - title: "Resources"
     url: /Resources/
 docs:
-  - title: Getting Started
+  - title: Theme 1
     children:
-      - title: "Quick-Start Guide"
+      - title: "A"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "B"
         url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: Customization
+  - title: Theme 2
     children:
-      - title: "Configuration"
+      - title: "A"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "B"
         url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
   
