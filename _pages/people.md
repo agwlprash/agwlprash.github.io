@@ -9,7 +9,7 @@ comments: true
 Prashant Agrawal <br>
 Multiphase flow, BPA, soft matter <br>
 
-<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"> <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/> </a>&nbsp;&nbsp;
+<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"> <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/> </a><br>
 
 <a href="https://scholar.google.co.in/citations?user=GGesizEAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/> </a> <br>
 
