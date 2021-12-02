@@ -1,5 +1,5 @@
 ---
-title:  "Home"
+#title:  "Home"
 layout: splash
 permalink: /
 excerpt: Testing text
@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com"  
-author_profile: true
+#author_profile: true
 comments: true
 ---
 
