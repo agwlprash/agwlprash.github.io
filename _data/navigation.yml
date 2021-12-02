@@ -13,17 +13,41 @@ main:
   - title: "Resources"
     url: /Resources/
 docs:
-  - title: Theme 1
+  - title: Soft matter
+    children:
+      - title: "Droplet dynamics"
+        url: /Research/Soft_Matter/Droplet_dynamics/
+      - title: "Surfaces"
+        url: /docs/structure/
+  - title: Smart Microsystems
     children:
       - title: "A"
-        url: /docs/quick-start-guide/
+        url: /docs/configuration/
       - title: "B"
-        url: /docs/structure/
-
-  - title: Theme 2
+        url: /docs/navigation/  
+  - title: Energy Materials
     children:
       - title: "A"
         url: /docs/configuration/
       - title: "B"
         url: /docs/navigation/
-  
+  - title: Energy Harvesting
+    children:
+      - title: "A"
+        url: /docs/configuration/
+      - title: "B"
+        url: /docs/navigation/
+  - title: Smart Wearables
+    children:
+      - title: "A"
+        url: /docs/configuration/
+      - title: "B"
+        url: /docs/navigation/
+  - title: Bio-engineering
+    children:
+      - title: "A"
+        url: /docs/configuration/
+      - title: "B"
+        url: /docs/navigation/
+  - title: Facilities/capabilities
+    url: /Research/Facilities/
