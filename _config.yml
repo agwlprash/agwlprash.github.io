@@ -281,7 +281,7 @@ compress_html:
 collections:
   staff_members:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
 
 defaults:
   # _staff_members
