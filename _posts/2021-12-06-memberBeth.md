@@ -10,7 +10,7 @@ tag:
   - New member
 ---
 
-XY has (re)joined the lab
+XY has joined the group.
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
