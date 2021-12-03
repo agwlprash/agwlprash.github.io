@@ -8,8 +8,6 @@ main:
     url: /News/
   - title: "People"
     url: /People/
-  - title: "People2"
-    url: /People2/
   - title: "Contact"
     url: /Contact/
   - title: "Resources"
