@@ -1,7 +1,7 @@
 ---
 title:  "Staff"
 layout: collection
-permalink: /People/
+permalink: /People1/
 collection: staff_members
 entries_layout: grid
 author_profile: true
