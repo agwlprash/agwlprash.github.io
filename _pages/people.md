@@ -1,7 +1,7 @@
 ---
 title:  "People"
 layout: collection
-permalink: /People/
+permalink: /People1/
 author_profile: true
 #comments: true
 ---
