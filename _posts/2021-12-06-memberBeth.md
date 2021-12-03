@@ -10,13 +10,13 @@ tag:
   - New member
 ---
 
-Dr Bethany Orme has (re)joined the lab
+XY has (re)joined the lab
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
 <!--Text following this can be whatever you want. There are some examples on the website provided and attached examples show how to format them in HTML language.-->
 <!--Following are some formatting examples-->
 
-Bethany will be working on exciting project of tweezing particles using waves.
+XY will be working on exciting project of EXAMPLE.
 
 Jump on to the _Research_ page to know more.
