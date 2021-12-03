@@ -280,8 +280,8 @@ compress_html:
 
 collections:
   staff_members:
-    #output: true
-    #people: true
+    output: true
+    people: true
     #permalink: /:collection/:path/
 
 defaults:
@@ -291,8 +291,8 @@ defaults:
       type: staff_members
     values:
       layout: archive
-      author_profile: false
-      #share: true
+      author_profile: true
+      share: true
 
 # Defaults
 defaults:
