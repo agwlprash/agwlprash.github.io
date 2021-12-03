@@ -281,7 +281,7 @@ compress_html:
 collections:
   staff_members:
     #output: true
-    people: true
+    #people: true
     #permalink: /:collection/:path/
 
 defaults:
@@ -290,7 +290,7 @@ defaults:
       path: ""
       type: staff_members
     values:
-      layout: single
+      layout: archive
       author_profile: false
       #share: true
 
