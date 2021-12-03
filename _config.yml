@@ -280,7 +280,8 @@ compress_html:
 
 collections:
   staff_members:
-    output: true
+    #output: true
+    people: true
     #permalink: /:collection/:path/
 
 defaults:
