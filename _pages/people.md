@@ -3,8 +3,6 @@ title:  "People"
 layout: collection
 permalink: /People/
 author_profile: true
-entries_layout: grid
-classes: wide
 #comments: true
 ---
 
