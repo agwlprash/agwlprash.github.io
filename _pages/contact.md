@@ -5,7 +5,7 @@ permalink: /Contact/
 author_profile: true
 comments: true
 ---
-For general enquiries email to:
+For any enquiries please contact us via email:
 <a href = "mailto: SMSL@northumbria.ac.uk">SMSL@northumbria.ac.uk</a>
 
 <!---
