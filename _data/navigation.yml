@@ -13,41 +13,53 @@ main:
   - title: "Resources"
     url: /Resources/
 docs:
-  - title: Soft matter
+  - title: Soft Matter Dynamics
     children:
-      - title: "Droplet dynamics"
-        url: /Droplet_dynamics/
-      - title: "Surfaces"
-        url: /Surfaces/
+      - title: "Phase change"
+        url: /Phase_change/
+      - title: "Wetting"
+        url: /Wetting/
+  - title: Smart Materials
+    children:
+      - title: "Hydrogels"
+        url: /docs/configuration/
+      - title: "Shape memory materials"
+        url: /docs/navigation/  
+      - title: "Metamaterials"
+        url: /docs/navigation/  
+      - title: "Soft materials"
+        url: /docs/navigation/  
+      - title: "Biomaterials"
+        url: /docs/navigation/  
   - title: Smart Microsystems
     children:
-      - title: "A"
+      - title: "Microwaves"
         url: /docs/configuration/
-      - title: "B"
+      - title: "Antennas"
+        url: /docs/navigation/
+      - title: "Diodes"
+        url: /docs/navigation/  
+      - title: "Sensors"
+        url: /docs/navigation/  
+      - title: "Resonators"
+        url: /docs/navigation/  
+      - title: "Smart Wearables"
         url: /docs/navigation/  
   - title: Energy Materials
     children:
-      - title: "A"
+      - title: "Energy harvesting"
         url: /docs/configuration/
-      - title: "B"
+      - title: "Microbial fuel cells"
         url: /docs/navigation/
-  - title: Energy Harvesting
+      - title: "Batteries"
+        url: /docs/navigation/  
+  - title: Microfluidics
     children:
-      - title: "A"
+      - title: "Surface Acoustics Waves"
         url: /docs/configuration/
-      - title: "B"
+      - title: "Porous media flow"
         url: /docs/navigation/
-  - title: Smart Wearables
-    children:
-      - title: "A"
-        url: /docs/configuration/
-      - title: "B"
-        url: /docs/navigation/
-  - title: Bio-engineering
-    children:
-      - title: "A"
-        url: /docs/configuration/
-      - title: "B"
-        url: /docs/navigation/
+  - title: Education
+    url: /docs/configuration/
   - title: Facilities/capabilities
     url: /Facilities/
