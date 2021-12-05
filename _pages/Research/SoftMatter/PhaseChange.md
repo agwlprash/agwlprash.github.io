@@ -7,6 +7,6 @@ sidebar:
 comments: true
 ---
 
-SAW <br>
-Leidenfrost <br>
-SLIPS <br>
+Evaporation <br>
+Condensation <br>
+Boiling <br>
