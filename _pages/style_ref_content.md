@@ -138,6 +138,13 @@ Make any link standout more when applying the `.btn` class.
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
 
+Default	{.notice}
+Primary	{.notice--primary}
+Info	{.notice--info}
+Warning	{.notice--warning}
+Success	{.notice--success}
+Danger	{.notice--danger}
+
 ## HTML Tags
 
 ### Address Tag
