@@ -12,7 +12,8 @@ Short description of the general research field<br>
 [Droplet dynamics]({{ site.url }}{{ site.baseurl }}/Droplet_dynamics/){: .btn .btn--light-outline}
 [Surfaces]({{ site.url }}{{ site.baseurl }}/Surfaces/){: .btn .btn--light-outline}
 
-[Primary Button Text](#link){: .btn}
+[Standard Button text](#link){: .btn}
+[Primary Button Text](#link){: .btn .btn--primary}
 [Success Button Text](#link){: .btn .btn--success}
 [Warning Button Text](#link){: .btn .btn--warning}
 [Danger Button Text](#link){: .btn .btn--danger}
@@ -24,5 +25,7 @@ Short description of the general research field<br>
 [Large Button](#link){: .btn .btn--large}
 [Default Button](#link){: .btn}
 [Small Button](#link){: .btn .btn--small}
+
+[Notice text]{: .notice}
 
 ## Smart Microsystems
