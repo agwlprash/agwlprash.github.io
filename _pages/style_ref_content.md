@@ -111,7 +111,8 @@ Make any link standout more when applying the `.btn` class.
 [Light Outline Button](#){: .btn .btn--light-outline}
 
 ```markdown
-[Primary Button Text](#link){: .btn}
+[Standard Button text](#link){: .btn}
+[Primary Button Text](#link){: .btn .btn--primary}
 [Success Button Text](#link){: .btn .btn--success}
 [Warning Button Text](#link){: .btn .btn--warning}
 [Danger Button Text](#link){: .btn .btn--danger}
