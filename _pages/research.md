@@ -9,7 +9,7 @@ comments: true
 
 ## Soft matter
 Short description of the general research field<br>
-[Droplet dynamics]({{ site.url }}{{ site.baseurl }}/Droplet_dynamics/){: .btn .btn--light-outline}
-[Surfaces]({{ site.url }}{{ site.baseurl }}/Surfaces/){: .btn .btn--light-outline}
+[Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
+[Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
 
 ## Smart Microsystems
