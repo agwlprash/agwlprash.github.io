@@ -1,7 +1,7 @@
 ---
-title:  "Droplet dynamics"
+title:  "Phase change"
 layout: archive
-permalink: /Droplet_dynamics/
+permalink: /Phase_change/
 sidebar:
   nav: "docs"
 comments: true
