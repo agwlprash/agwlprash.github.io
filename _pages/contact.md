@@ -6,11 +6,10 @@ author_profile: true
 comments: true
 ---
 For any enquiries please contact us via email:<br>
-<a href = "mailto: SMSL@northumbria.ac.uk">SMSL@northumbria.ac.uk</a>
+<a href = "mailto: ee.smsl@northumbria.ac.uk">SMSL@northumbria.ac.uk</a>
 
 <!---
 ### Research Group Leadership
-
 <a href = "mailto: ben.xu@northumbria.ac.uk">Prof Ben Xu</a> and <a href = "mailto: hamdi.torun@northumbria.ac.uk">Dr Hamdi Torun</a>
 --->
 
