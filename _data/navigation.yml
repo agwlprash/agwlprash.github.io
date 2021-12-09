@@ -13,12 +13,32 @@ main:
   - title: "Resources"
     url: /Resources/
 docs:
-  - title: Soft Matter Dynamics
+  - title: Bio-engineering
     children:
-      - title: "Phase change"
-        url: /Phase_change/
-      - title: "Wetting"
-        url: /Wetting/
+    - title: "Biomaterials"
+      url: /Bio_materials/
+    - title: "Single-cell"
+      url: /Single_cell/
+      
+  - title: Education
+    url: /docs/configuration/
+    
+  - title: Energy Materials
+    children:
+      - title: "Energy harvesting"
+        url: /docs/configuration/
+      - title: "Microbial fuel cells"
+        url: /docs/navigation/
+      - title: "Batteries"
+        url: /docs/navigation/  
+          
+  - title: Microfluidics
+    children:
+      - title: "Liquid manipulation"
+        url: /docs/configuration/
+      - title: "Porous media flow"
+        url: /docs/navigation/
+        
   - title: Smart Materials
     children:
       - title: "Hydrogels"
@@ -29,37 +49,22 @@ docs:
         url: /docs/navigation/  
       - title: "Soft materials"
         url: /docs/navigation/  
-      - title: "Biomaterials"
-        url: /docs/navigation/  
+        
+  - title: Soft Matter Dynamics
+    children:
+      - title: "Phase change"
+        url: /Phase_change/
+      - title: "Wetting"
+        url: /Wetting/
+        
   - title: Smart Microsystems
     children:
-      - title: "Microwaves"
+      - title: "Electronics"
         url: /docs/configuration/
-      - title: "Antennas"
-        url: /docs/navigation/
-      - title: "Diodes"
-        url: /docs/navigation/  
       - title: "Sensors"
         url: /docs/navigation/  
-      - title: "Resonators"
-        url: /docs/navigation/  
       - title: "Smart Wearables"
-        url: /docs/navigation/  
-  - title: Energy Materials
-    children:
-      - title: "Energy harvesting"
-        url: /docs/configuration/
-      - title: "Microbial fuel cells"
         url: /docs/navigation/
-      - title: "Batteries"
-        url: /docs/navigation/  
-  - title: Microfluidics
-    children:
-      - title: "Surface Acoustics Waves"
-        url: /docs/configuration/
-      - title: "Porous media flow"
-        url: /docs/navigation/
-  - title: Education
-    url: /docs/configuration/
+        
   - title: Facilities/capabilities
     url: /Facilities/
