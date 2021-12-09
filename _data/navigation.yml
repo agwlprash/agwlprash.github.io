@@ -14,7 +14,7 @@ main:
     url: /Resources/
 docs:
   - title: Bio-engineering
-    url: /Bioengineering/
+    url: /Facilities/
     children:
     - title: "Biomaterials"
       url: /Bio_materials/
