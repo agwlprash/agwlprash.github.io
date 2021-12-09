@@ -35,8 +35,10 @@ comments: true
 
 ## Soft matter dynamics <a id="Soft matter">
 Short description of the general research field<br>
-[## Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
+[Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
 [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
+
+[Top of page]("#Top of page"){: .btn .btn--light-outline}
   
   <a href="#Top of page">Navigate to top.</a>
 
