@@ -38,7 +38,7 @@ Short description of the general research field<br>
 [Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
 [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
 
-[Navigate to top](#Top of page){: .btn .btn--light-outline}
+[Navigate to top](#Top of page){: .btn .btn--light-outline .btn--small}
   <a href="#Top of page">Navigate to top.</a>
 
 ## Smart Microsystems <a id="Smart Microsystems">
