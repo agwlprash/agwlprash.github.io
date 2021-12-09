@@ -8,13 +8,15 @@ comments: true
 ---
 ### Research <a id="Top of page">
   The research group works on the following themes:
-  <a href="#Bioengineering">Bio-engineering</a> <br>
-  <a href="#Education">Education</a> <br>
-  <a href="#Energy Materials">Energy Materials</a> <br>
-  <a href="#Microfluidics">Microfluidics</a> <br>
-  <a href="#Smart Materials">Smart materials</a> <br>
-  <a href="#Soft matter">Soft matter dynamics</a> <br>
-  <a href="#Smart Microsystems">Smart Microsystems</a> <br>
+  <ul type="square">
+    <li><a href="#Bioengineering">Bio-engineering</a> <br> </li>
+  <li><a href="#Education">Education</a> <br></li>
+  <li><a href="#Energy Materials">Energy Materials</a> <br></li>
+  <li><a href="#Microfluidics">Microfluidics</a> <br></li>
+  <li><a href="#Smart Materials">Smart materials</a> <br></li>
+  <li><a href="#Soft matter">Soft matter dynamics</a> <br></li>
+  <li><a href="#Smart Microsystems">Smart Microsystems</a> <br></li>
+  </ul>
 
 ## Bio-engineering <a id="Bioengineering"> 
   <a href="#Top of page">Navigate to top.</a>
