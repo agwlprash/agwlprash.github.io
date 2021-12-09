@@ -9,7 +9,7 @@ comments: true
 ### Research <a id="Top of page">
   The research group works on the following themes:<br>
   <ul type="square">
-  <li><a href="#Bioengineering" class="btn--success">Bio-engineering</a> <br> </li>
+  <li><a href="#Bioengineering" class="btn--success" class="btn--small">Bio-engineering</a> <br> </li>
   <li><a href="#Education">Education</a> <br></li>
   <li><a href="#Energy Materials">Energy Materials</a> <br></li>
   <li><a href="#Microfluidics">Microfluidics</a> <br></li>
