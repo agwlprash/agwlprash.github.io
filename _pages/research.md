@@ -9,7 +9,7 @@ comments: true
 ### Research <a id="Top of page">
   The research group works on the following themes:<br>
   <ul type="square">
-    <li><a href="#Bioengineering">Bio-engineering</a> <br> </li>
+  <li><a href="#Bioengineering" class="btn--success">Bio-engineering</a> <br> </li>
   <li><a href="#Education">Education</a> <br></li>
   <li><a href="#Energy Materials">Energy Materials</a> <br></li>
   <li><a href="#Microfluidics">Microfluidics</a> <br></li>
@@ -38,7 +38,6 @@ Short description of the general research field<br>
 [Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
 [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
 
-[Top of page]("#Top of page"){: .btn .btn--light-outline}
   
   <a href="#Top of page">Navigate to top.</a>
 
