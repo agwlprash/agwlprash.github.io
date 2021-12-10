@@ -13,3 +13,4 @@ Tensiometer<br>
 Spin coaters<br>
 Plasma oven<br>
 Microscopes<br>
+Reflectometer
