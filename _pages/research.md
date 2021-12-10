@@ -15,7 +15,7 @@ The research group works on the following themes:<br>
   [Microfluidics](#Microfluidics){: .btn .btn--light-outline}
   [Smart materials](#Smart_materials){: .btn .btn--light-outline}
   [Soft matter](#Soft_matter){: .btn .btn--light-outline}
-  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline}
+  [Smart microsystems](#Smart_microsystems){: .btn .btn--light-outline}
   
 Our research facilities can be viewed below:<br>
   [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--light-outline}
@@ -42,7 +42,7 @@ Short description of the general research field<br>
 
 [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Smart Microsystems <a id="Smart_microsystems">
+## Smart microsystems <a id="Smart_microsystems">
 [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
   
