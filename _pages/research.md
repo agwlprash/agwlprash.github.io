@@ -15,38 +15,34 @@ comments: true
   <li><a href="#Microfluidics">Microfluidics</a> <br></li>
   <li><a href="#Smart_materials">Smart materials</a> <br></li>
   <li><a href="#Soft_matter">Soft matter dynamics</a> <br></li>
-  <li><a href="#Smart_microsystems">Smart Microsystems</a> <br></li>
+  <li><a href="#Smart_microsystems">Smart Microsystems</a> [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small}<br></li>
   </ul>
 
 ## Bio-engineering <a id="Bioengineering"> 
-  <a href="#Top of page">Navigate to top.</a>
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Education <a id="Education">
-  <a href="#Top of page">Navigate to top.</a>
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Energy materials <a id="Energy_materials">
-  <a href="#Top of page">Navigate to top.</a>
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Microfluidics <a id="Microfluidics">
-  <a href="#Top of page">Navigate to top.</a>
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Smart materials <a id="Smart_materials">
-  <a href="#Top of page">Navigate to top.</a>
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Soft matter dynamics <a id="Soft_matter">
 Short description of the general research field<br>
-[Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
-[Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
+[Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--inverse}
+[Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--inverse}
 
 [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
-  [Navigate to top](#Top_of_page){: .btn .btn--primary .btn--small}
-  [Navigate to top](#Top_of_page){: .btn .btn--warning .btn--small}
-  [Navigate to top](#Top_of_page){: .btn .btn--info .btn--small}
-  [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
-  
 
 ## Smart Microsystems <a id="Smart_microsystems">
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Facilities
   
-<a href="#Top of page">Navigate to top.</a>
+[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
