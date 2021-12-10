@@ -1,7 +1,7 @@
 ---
-title:  "Resources"
+title:  "Opportunities"
 layout: archive
-permalink: /Resources/
+permalink: /Opportunities/
 author_profile: true
 comments: true
 ---
