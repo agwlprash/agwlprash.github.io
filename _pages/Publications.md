@@ -8,7 +8,4 @@ author_profile: true
 
 ## Staff
 
-P. Agrawal, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, “Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation”, Applied Energy, 287, 116556, 2021
-
-
-<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html">PA</a>
+_*P. Agrawal*_, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, “Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation”, <a href="https://www.sciencedirect.com/science/article/pii/S0306261921001045">Applied Energy, 287, 116556, 2021</a>
