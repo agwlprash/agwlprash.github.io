@@ -4,14 +4,13 @@ main:
     url: /
   - title: "Research"
     url: /Research/
-  - title: "News"
-    url: /News/
-  - title: "People"
-    url: /People/
+  - title: "Publications"
+    url: /Publications/
   - title: "Contact"
     url: /Contact/
-  - title: "Resources"
-    url: /Resources/
+  - title: "Opportunities"
+    url: /Opportunities/
+    
 docs:
   - title: Bio-engineering
     url: /Bioengineering/
