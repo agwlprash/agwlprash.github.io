@@ -42,6 +42,6 @@ Short description of the general research field<br>
 [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Smart Microsystems <a id="Smart_microsystems">
-  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
+[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
   
