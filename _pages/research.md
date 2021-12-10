@@ -8,18 +8,15 @@ comments: true
 ---
 ### Research <a id="Top_of_page">
   The research group works on the following themes:<br>
-  <ul type="square">
-  <li><a href="#Bioengineering" class="btn--success--small">Bio-engineering</a> <br> </li>
-  <li><a href="#Education">Education</a> <br></li>
-  <li><a href="#Energy_materials">Energy Materials</a> <br></li>
-  <li><a href="#Microfluidics">Microfluidics</a> <br></li>
-  <li><a href="#Smart_materials">Smart materials</a> <br></li>
-  <li><a href="#Soft_matter">Soft matter dynamics</a> <br></li>
-  <li><a href="#Smart_microsystems">Smart Microsystems</a> <br></li>
-  </ul>
-  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small}
+  [Bioengineering](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
+  [Education](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
+  [Energy materials](#Energy_materials){: .btn .btn--light-outline .btn--small} <br>
+  [Microfluidics](#Microfluidics){: .btn .btn--light-outline .btn--small} <br>
+  [Smart_materials](#Smart_materials){: .btn .btn--light-outline .btn--small} <br>
+  [Soft matter](#Soft_matter){: .btn .btn--light-outline .btn--small} <br>
+  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
   
-Our research facilities can be viewed below:
+Our research facilities can be viewed below:<br>
   [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--inverse}
   
 ## Bio-engineering <a id="Bioengineering"> 
