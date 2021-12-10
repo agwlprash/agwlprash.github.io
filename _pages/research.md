@@ -8,8 +8,8 @@ comments: true
 ---
 ### Research <a id="Top_of_page">
   The research group works on the following themes:<br>
-  [Bioengineering](#Smart_microsystems){: .btn .btn--light-outline}
-  [Education](#Smart_microsystems){: .btn .btn--light-outline}
+  [Bioengineering](#Bioengineering){: .btn .btn--light-outline}
+  [Education](#Education){: .btn .btn--light-outline}
   [Energy materials](#Energy_materials){: .btn .btn--light-outline}
   [Microfluidics](#Microfluidics){: .btn .btn--light-outline}
   [Smart_materials](#Smart_materials){: .btn .btn--light-outline}
