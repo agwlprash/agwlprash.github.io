@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 comments: true
 ---
-### Research <a id="Top of page">
+### Research <a id="Top_of_page">
   The research group works on the following themes:<br>
   <ul type="square">
   <li><a href="#Bioengineering" class="btn--success--small">Bio-engineering</a> <br> </li>
@@ -38,8 +38,12 @@ Short description of the general research field<br>
 [Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--light-outline}
 [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--light-outline}
 
-[Navigate to top](#Top of page){: .btn .btn--light-outline .btn--small}
-  <a href="#Top of page">Navigate to top.</a>
+[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
+  [Navigate to top](#Top_of_page){: .btn .btn--primary .btn--small}
+  [Navigate to top](#Top_of_page){: .btn .btn--warning .btn--small}
+  [Navigate to top](#Top_of_page){: .btn .btn--info .btn--small}
+  [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
+  
 
 ## Smart Microsystems <a id="Smart Microsystems">
 
