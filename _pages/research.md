@@ -15,9 +15,13 @@ comments: true
   <li><a href="#Microfluidics">Microfluidics</a> <br></li>
   <li><a href="#Smart_materials">Smart materials</a> <br></li>
   <li><a href="#Soft_matter">Soft matter dynamics</a> <br></li>
-  <li><a href="#Smart_microsystems">Smart Microsystems</a> [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small}<br></li>
+  <li><a href="#Smart_microsystems">Smart Microsystems</a> <br></li>
   </ul>
-
+  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small}
+  
+Our research facilities can be viewed below:
+  [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--inverse}
+  
 ## Bio-engineering <a id="Bioengineering"> 
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
@@ -43,6 +47,4 @@ Short description of the general research field<br>
 ## Smart Microsystems <a id="Smart_microsystems">
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Facilities
   
-[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
