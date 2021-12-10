@@ -13,7 +13,7 @@ The research group works on the following themes:<br>
   [Education](#Education){: .btn .btn--light-outline}
   [Energy materials](#Energy_materials){: .btn .btn--light-outline}
   [Microfluidics](#Microfluidics){: .btn .btn--light-outline}
-  [Smart_materials](#Smart_materials){: .btn .btn--light-outline}
+  [Smart materials](#Smart_materials){: .btn .btn--light-outline}
   [Soft matter](#Soft_matter){: .btn .btn--light-outline}
   [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline}
   
