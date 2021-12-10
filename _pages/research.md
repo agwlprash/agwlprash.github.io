@@ -8,13 +8,13 @@ comments: true
 ---
 ### Research <a id="Top_of_page">
   The research group works on the following themes:<br>
-  [Bioengineering](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
-  [Education](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
-  [Energy materials](#Energy_materials){: .btn .btn--light-outline .btn--small} <br>
-  [Microfluidics](#Microfluidics){: .btn .btn--light-outline .btn--small} <br>
-  [Smart_materials](#Smart_materials){: .btn .btn--light-outline .btn--small} <br>
-  [Soft matter](#Soft_matter){: .btn .btn--light-outline .btn--small} <br>
-  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline .btn--small} <br>
+  [Bioengineering](#Smart_microsystems){: .btn .btn--light-outline}
+  [Education](#Smart_microsystems){: .btn .btn--light-outline}
+  [Energy materials](#Energy_materials){: .btn .btn--light-outline}
+  [Microfluidics](#Microfluidics){: .btn .btn--light-outline}
+  [Smart_materials](#Smart_materials){: .btn .btn--light-outline}
+  [Soft matter](#Soft_matter){: .btn .btn--light-outline}
+  [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline}
   
 Our research facilities can be viewed below:<br>
   [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--inverse}
