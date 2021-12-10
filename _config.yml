@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SMSL"
+title                    : "PA"
 title_separator          : "|"
 subtitle                 : #"SMSL"
-name                     : "SMSL"
-description              : "SMSL NU"
+name                     : "PA"
+description              : "PA"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "agwlprash/agwlprashtemp.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : #"agwlprash/agwlprashtemp.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/SMSLbanner.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@SMSL_NU"
+  username               : #"@SMSL_NU"
 facebook:
   username               :
   app_id                 :
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "SMSL"
+  name             : "Prashant Agrawal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Northumbria University<br>Newcastle upon Tyne"
-  email            : "ee.smsl@northumbria.ac.uk"
+  email            : "prashant.agrawal@northumbria.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/@SMSL_NU"
+      url: #"https://twitter.com/@SMSL_NU"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -125,14 +125,14 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/@smsl_nu"
+      url: #"https://instagram.com/@smsl_nu"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/@SMSL_NU"
+      url: #"https://twitter.com/@SMSL_NU"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -147,10 +147,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/@smsl_nu"
+      url: #"https://instagram.com/@smsl_nu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ee.smsl@northumbria.ac.uk"
+      url: "mailto:prashant.agrawal@northumbria.ac.uk"
     
 
 
