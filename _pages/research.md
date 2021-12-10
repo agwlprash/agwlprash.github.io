@@ -7,7 +7,8 @@ sidebar:
 comments: true
 ---
 <a id="Top_of_page">
-  The research group works on the following themes:<br>
+
+The research group works on the following themes:<br>
   [Bioengineering](#Bioengineering){: .btn .btn--light-outline}
   [Education](#Education){: .btn .btn--light-outline}
   [Energy materials](#Energy_materials){: .btn .btn--light-outline}
