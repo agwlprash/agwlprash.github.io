@@ -1,12 +1,12 @@
 ---
-#title:  "Research"
+title:  "Research"
 layout: archive
 permalink: /Research/
 sidebar:
   nav: "docs"
 comments: true
 ---
-### Research <a id="Top_of_page">
+<a id="Top_of_page">
   The research group works on the following themes:<br>
   [Bioengineering](#Bioengineering){: .btn .btn--light-outline}
   [Education](#Education){: .btn .btn--light-outline}
