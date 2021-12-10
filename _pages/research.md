@@ -17,7 +17,7 @@ comments: true
   [Smart Microsystems](#Smart_microsystems){: .btn .btn--light-outline}
   
 Our research facilities can be viewed below:<br>
-  [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--inverse}
+  [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--light-outline}
   
 ## Bio-engineering <a id="Bioengineering"> 
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
