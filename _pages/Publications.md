@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2020
 <ul type="square">
-  <li><u>P. Agrawal</u>, H. Kumar and P. Kumar <i>Rapid and even spreading of complex fluids over a large area in porous subsrates</i>, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019939?journalCode=apl">Applied Physics Letters, 117, 073703, 2020</a> (Selected by the journal as a <b><i>Featured Article</i></b>: Sandwich device ensures rapid and even spreading of biofluids for analysis, <a href="https://aip.scitation.org/doi/10.1063/10.0001880">AIP Scilight, 2020</a>)</li>
+  <li><u>P. Agrawal</u>, H. Kumar and P. Kumar, <i>Rapid and even spreading of complex fluids over a large area in porous subsrates</i>, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019939?journalCode=apl">Applied Physics Letters, 117, 073703, 2020</a> (Selected by the journal as a <b><i>Featured Article</i></b>: Sandwich device ensures rapid and even spreading of biofluids for analysis, <a href="https://aip.scitation.org/doi/10.1063/10.0001880">AIP Scilight, 2020</a>)</li>
   <li>L. E. Dodd, <u>P. Agrawal</u>, N. R. Geraldi, B. B. Xu, G. G. Wells, J. Marting, M. I. Newton, G. McHale, and D. Wood, <i>Planar selective Leidenfrost propulsion without physically structured substrates or walls</i>, <a href="https://aip.scitation.org/doi/10.1063/5.0017699">Applied Physics Letters. 117, 081601, 2020</a></li>
 </ul>
 
@@ -34,7 +34,7 @@ author_profile: true
 
 ### 2017
 <ul type="square">
-  <li><u>P. Agrawal</u>, L. Barnet and D. Attinger, <i>Bloodstains on woven fabric: simulations and experiments for quantification of the uncertainty on impact and directional angles<i>, <a href="https://www.sciencedirect.com/science/article/pii/S0379073817302645">Forensic Science International, 278, 240-252, 2017</a></li>
+  <li><u>P. Agrawal</u>, L. Barnet and D. Attinger, <i>Bloodstains on woven fabric: simulations and experiments for quantification of the uncertainty on impact and directional angles</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0379073817302645">Forensic Science International, 278, 240-252, 2017</a></li>
 </ul>
 
 ### 2016
