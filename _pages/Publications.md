@@ -6,8 +6,15 @@ author_profile: true
 #comments: true
 ---
 
+### 2022
+<ul type="square">
+  <li>P. Agrawal and G. McHale, "Leidenfrost Effect and Surface Wettability", The Surface Wettability Effect on Phase Change, Springer, 189-233, 2022</li>
+</ul>
+
 ### 2021
 <ul type="square">
+  <li>P. Agrawal and G. McHale, Leidenfrost Effect and Surface Wettability, The Surface Wettability Effect on Phase Change, Springer, 189-233, 2022</li>
+  <li>M.H. Biroun, L. Haworth, P. Agrawal, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, "Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces", <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
   <li> <u><i>P. Agrawal</i></u>, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, “Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation”, <a href="https://www.sciencedirect.com/science/article/pii/S0306261921001045">Applied Energy, 287, 116556, 2021</a> </li>
  </ul>
 
