@@ -3,11 +3,13 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /Research/
+    url: /Research/    
+  - title: "Updates"
+    url: /Updates/
   - title: "Contact"
     url: /Contact/
-  - title: "Opportunities"
-    url: /Opportunities/
+  - title: "Resources"
+    url: /Resources/
     
 docs:
   - title: Bio-engineering
