@@ -14,7 +14,7 @@ tag:
 
 Want to explore how fluid dynamics can result in next generation aesthetic energy devices? An exciting multidisciplinary PhD opportunity is available!
 
-Apply by 06th February, 2022!
+**Apply by 06th February, 2022!**
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
