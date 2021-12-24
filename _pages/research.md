@@ -17,14 +17,17 @@ My research publications can be viewed on the following links:<br>
   
 ## Particle Dynamics <a id="ParticleDynamics"> 
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="funny GIF" width="40%">
 
 ## Porous media flow <a id="Porous"> 
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="funny GIF" width="40%">
 
 ## Phase change <a id="PhaseChange"> 
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="funny GIF" width="20%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="funny GIF" width="40%">
   
   {% include video id="660004479" provider="vimeo" width="20%"%}
   {% include video id="660004327" provider="vimeo"%}
