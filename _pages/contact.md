@@ -5,7 +5,7 @@ permalink: /Contact/
 author_profile: true
 comments: true
 ---
-For any enquiries please contact us via email:<br>
+For any enquiries please contact me via email:<br>
 <a href = "mailto: prashant.agrawal@northumbria.ac.uk">prashant.agrawal@northumbria.ac.uk</a>
 
 <!---
