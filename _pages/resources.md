@@ -2,7 +2,7 @@
 title:  "Resources"
 layout: archive
 permalink: /Resources/
-author_profile: true
+author_profile: false #true
 comments: true
 ---
 <a href="https://naturesraincoats.com/"><img src="{{ site.url }}{{ site.baseurl }}/assets/NR.png" alt="PA" style="width: 40%; border: none; text-decoration: none"/></a>&nbsp;
