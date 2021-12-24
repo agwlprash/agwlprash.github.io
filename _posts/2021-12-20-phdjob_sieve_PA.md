@@ -12,9 +12,9 @@ tag:
   - PhD
 ---
 
-PhD position on an exciting research on _Capillary wave sieves_ for cell sorting.
+PhD position on an exciting research on _Capillary wave sieves_ for cell sorting <br>
 
-**Apply by 18th February, 2022!**
+**Apply by 18<sup>th<sup> February, 2022!**
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
