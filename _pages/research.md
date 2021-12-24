@@ -24,4 +24,5 @@ My research publications can be viewed on the following links:<br>
 ## Phase change <a id="PhaseChange"> 
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
-  <video width="480" height="320" controls="controls"><source src="https://youtu.be/PyFc_xRUc7I" type="video/mp4"></video>
+  <video width="480" height="320" controls="controls">
+    <source src=https://youtu.be/PyFc_xRUc7I></video>
