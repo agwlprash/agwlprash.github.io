@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Prashant Agrawal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/profiles/profile_im_PA.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Northumbria University<br>Newcastle upon Tyne"
   email            : "prashant.agrawal@northumbria.ac.uk"
