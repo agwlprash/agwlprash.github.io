@@ -25,4 +25,4 @@ My research publications can be viewed on the following links:<br>
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
   <video width="480" height="320" controls="controls">
-    <source src=https://youtu.be/PyFc_xRUc7I></video>
+    <source src="https://youtu.be/PyFc_xRUc7I"></video>
