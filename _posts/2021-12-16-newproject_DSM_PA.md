@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project"
+title:  "New project-DSM"
 author_profile: false		
 tag: 							
   - Projects
