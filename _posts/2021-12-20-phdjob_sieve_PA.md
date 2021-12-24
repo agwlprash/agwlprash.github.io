@@ -12,9 +12,9 @@ tag:
   - PhD
 ---
 
-PhD position on an exciting research on _Capillary wave sieves_ for cell sorting <br>
+PhD position on an exciting research on _Capillary wave sieves_ for cell sorting.
 
-Apply by 18th February, 2022!
+**Apply by 18th February, 2022!**
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
@@ -23,9 +23,7 @@ Apply by 18th February, 2022!
 
 This project will involve using low frequency liquid vibrations to develop a novel, low-cost, simple and scalable platform for manipulating bio-particles, such as cells and emulsions, in microfluidic channels. We will work with industrial experts to assess the feasibility of the technology for applications in bulk bio-particle processing and integration in healthcare diagnostic devices.
 
-Exciting projects related to this research field are already underway! 
-
-Keep checking the Research page for updates: [Research]({{ site.url }}{{ site.baseurl }}/Research/){: .btn .btn--inverse}
+Exciting projects related to this research field are already underway! Keep checking the Research page for updates: [Research]({{ site.url }}{{ site.baseurl }}/Research/){: .btn .btn--inverse}
 
 More project details are provided in the following [advert link](https://bit.ly/3d6KA9n "PhD").
 
