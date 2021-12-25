@@ -5,6 +5,7 @@ permalink: /Research/
 #sidebar:
   #nav: "docs"
 comments: true
+#{% include video id="660004479" provider="vimeo"%} 
 ---
 <a id="Top_of_page">
   
@@ -42,12 +43,5 @@ My research publications can be viewed on the following links:<br>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/FBC_LF_engine.gif" alt="LFdrop" width="60%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/top_side_LF.gif" alt="LFdrop" width="60%">
-  
-  <!-- 
-{% include video id="660004479" provider="vimeo"%} 
--->
-  <!--
-{% include video id="660004327" provider="vimeo"%} 
--->
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
