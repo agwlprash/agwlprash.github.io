@@ -21,21 +21,21 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
-  {% include video id="660009608" provider="vimeo"%}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/part_collect.gif" alt="Collect" width="60%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Porous media flow <a id="Porous"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leafidth="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="BPA" width="40%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Phase change <a id="PhaseChange"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="LFdrop" width="60%">
   
   {% include video id="660004479" provider="vimeo"%}
   {% include video id="660004327" provider="vimeo"%}
