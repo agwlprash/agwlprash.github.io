@@ -37,7 +37,7 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="LFdrop" width="60%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation6.gif" alt="LFdrop" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation6.gif" alt="LFengine" width="60%">
   
   {% include video id="660004479" provider="vimeo"%}
   {% include video id="660004327" provider="vimeo"%}
