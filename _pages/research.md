@@ -22,7 +22,7 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
@@ -36,12 +36,13 @@ My research publications can be viewed on the following links:<br>
 
 ## Phase change <a id="PhaseChange"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdrop" width="25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdrop" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdrop" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdrop" width="25%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdrop" width="25%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdrop" width="25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdrop" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdrop" width="40%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
