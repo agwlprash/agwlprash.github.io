@@ -17,9 +17,9 @@ My research publications can be viewed on the following links:<br>
   
 ## Particle Dynamics <a id="ParticleDynamics"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/chamber_vib.jpg" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/chamber_vib.png" alt="chamber" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="funny GIF" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
   {% include video id="660009608" provider="vimeo"%}
   
