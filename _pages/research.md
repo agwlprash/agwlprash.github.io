@@ -27,7 +27,7 @@ My research publications can be viewed on the following links:<br>
 
 ## Porous media flow <a id="Porous"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leafidth="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leaf" width="40%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="BPA" width="40%">
   
