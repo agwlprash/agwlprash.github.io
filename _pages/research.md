@@ -36,12 +36,12 @@ My research publications can be viewed on the following links:<br>
 
 ## Phase change <a id="PhaseChange"> 
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdrop.gif" alt="LFdrop" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdrop" width="25%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation6.png" alt="LFengine" width="60%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/FBC_LF_Engine.gif" alt="LFdrop" width="60%">
-  
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/top_side_LF.gif" alt="LFdrop" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdrop" width="25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdrop" width="25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotating.gif" alt="LFdrop" width="25%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
