@@ -40,7 +40,7 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation6.png" alt="LFengine" width="60%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/FBC_LF_engine.gif" alt="LFdrop" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/FBC_LF_Engine.gif" alt="LFdrop" width="60%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/top_side_LF.gif" alt="LFdrop" width="60%">
   
