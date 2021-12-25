@@ -21,7 +21,7 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/part_collect.gif" alt="Collect" width="60%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="60%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
@@ -39,7 +39,11 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation6.png" alt="LFengine" width="60%">
   
-  {% include video id="660004479" provider="vimeo"%}
-  {% include video id="660004327" provider="vimeo"%}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/FBC_LF_engine.gif" alt="LFdrop" width="60%">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/top_side_LF.gif" alt="LFdrop" width="60%">
+  
+  <!-- {% include video id="660004479" provider="vimeo"%} -->
+  <!-- {% include video id="660004327" provider="vimeo"%} -->
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
