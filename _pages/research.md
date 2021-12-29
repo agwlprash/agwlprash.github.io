@@ -26,22 +26,13 @@ My research publications can be viewed on the following links:<br>
    
   
 ### Key relevant publications
-
+<font size="3">
 <ul type="square">
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Continuous focusing of microparticles in an open channel undergoing low frequency vibrations</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 10, 024036, 2018</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Particle manipulation affected by streaming flows in vertically actuated open rectangular chambers</i>, <a href="https://aip.scitation.org/doi/10.1063/1.4942240">Physics of Fluids, 28(3), 032001, 2016</a></li>
 </ul>
- 
-  <font size="5">   Change    </font>  
-  
-  <font size="6">Change</font>
-  
-  <font size="7">Change</font>
-  
-  <font size="6">Change
-  again
   </font>  
-  
+
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Porous media flow <a id="Porous"> 
