@@ -32,6 +32,16 @@ My research publications can be viewed on the following links:<br>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Particle manipulation affected by streaming flows in vertically actuated open rectangular chambers</i>, <a href="https://aip.scitation.org/doi/10.1063/1.4942240">Physics of Fluids, 28(3), 032001, 2016</a></li>
 </ul>
  
+  <font size="5">   Change    </font>  
+  
+  <font size="6">Change</font>
+  
+  <font size="7">Change</font>
+  
+  <font size="6">Change
+  again
+  </font>  
+  
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Porous media flow <a id="Porous"> 
@@ -40,7 +50,7 @@ My research publications can be viewed on the following links:<br>
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="BPA" width="40%">
   
-  ### Key relevant publications
+### Key relevant publications
 
   <ul type="square">
   <li><u>P. Agrawal</u>, H. Kumar and P. Kumar, <i>Rapid and even spreading of complex fluids over a large area in porous subsrates</i>, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019939?journalCode=apl">Applied Physics Letters, 117, 073703, 2020</a> (Selected by the journal as a <b><i>Featured Article</i></b>: Sandwich device ensures rapid and even spreading of biofluids for analysis, <a href="https://aip.scitation.org/doi/10.1063/10.0001880">AIP Scilight, 2020</a>)</li>
@@ -63,7 +73,7 @@ My research publications can be viewed on the following links:<br>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdrop" width="40%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdrop" width="40%">
   
-    ### Key relevant publications
+### Key relevant publications
 <ul type="square">  
   <li><u>P. Agrawal</u> and G. McHale, <i>Leidenfrost Effect and Surface Wettability</i>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-82992-6_7">The Surface Wettability Effect on Phase Change, Springer, 189-233, 2021</a></li>
   <li><u>P. Agrawal</u>, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, <i>Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0306261921001045">Applied Energy, 287, 116556, 2021</a> </li>
@@ -72,9 +82,10 @@ My research publications can be viewed on the following links:<br>
    
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
-  ## Soft matter <a id="SoftMatter"> 
   
-  ### Key relevant publications
+## Soft matter <a id="SoftMatter"> 
+  
+### Key relevant publications
 <ul type="square">  
   <li>M.H. Biroun, L. Haworth, <u>P. Agrawal</u>, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, <i>Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces</i>, <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
   <li>L. E. Dodd, <u>P. Agrawal</u>, N. R. Geraldi, B. B. Xu, G. G. Wells, J. Marting, M. I. Newton, G. McHale, and D. Wood, <i>Planar selective Leidenfrost propulsion without physically structured substrates or walls</i>, <a href="https://aip.scitation.org/doi/10.1063/5.0017699">Applied Physics Letters. 117, 081601, 2020</a></li>
