@@ -19,10 +19,10 @@ My research publications can be viewed on the following links:<br>
 ## Particle Dynamics <a id="ParticleDynamics"> 
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
   [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
