@@ -16,7 +16,7 @@ comments: true
 ---
 
 ### Background
-
+<br>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/Background.png" alt="background" width="100%">&nbsp;
 
 ### Research interests
