@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project-Northumbria Feasibility"
+title:  "New project-Northumbria feasibility"
 author_profile: false		
 tag: 							
   - Projects
