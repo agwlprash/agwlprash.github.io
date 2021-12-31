@@ -1,5 +1,5 @@
 ---
-title:  #"Smart Materials and Surfaces Laboratory"
+title:  "Home"
 layout: splash
 permalink: /
 excerpt: #Testing text
@@ -12,7 +12,7 @@ header:
    # - label: "Button"
     #  url: "https://github.com"  
 #author_profile: true
-comments: true
+#comments: true
 ---
 
 ### Research interests
