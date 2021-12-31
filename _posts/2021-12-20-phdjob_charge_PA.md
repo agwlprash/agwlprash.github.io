@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "PhD position" 			
+title:  "PhD position on bio-inspired electrodes" 			
 author_profile: false		
 tag: 							
   - Jobs
