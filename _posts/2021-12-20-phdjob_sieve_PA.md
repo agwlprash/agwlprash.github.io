@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "PhD position" 			
+title:  "PhD position on Capillary wave sieves" 			
 author_profile: false		
 tag: 							
   - Jobs
