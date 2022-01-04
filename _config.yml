@@ -98,7 +98,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "G-B4RJDLENBE"
+    tracking_id          : "UA-B4RJDLENBE"
     anonymize_ip         : #false
 
 
