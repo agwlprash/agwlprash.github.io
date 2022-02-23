@@ -5,13 +5,13 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project-Northumbria feasibility"
+title:  "New project-Northern Accelerator"
 author_profile: false		
 tag: 							
   - Projects
 ---
 
-New project funded by Northumbria Commercial Feasibility funding starts!
+New project funded by [Northern Accelerator](https://northernaccelerator.org/ "NA"): Commercial Feasibility study starts!
 
 <!--more-->
 
