@@ -68,6 +68,7 @@ My complete list of research publications can be viewed on the following pages:<
   <li><u>P. Agrawal</u> and G. McHale, <i>Leidenfrost Effect and Surface Wettability</i>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-82992-6_7">The Surface Wettability Effect on Phase Change, Springer, 189-233, 2021</a></li>
   <li><u>P. Agrawal</u>, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, <i>Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0306261921001045">Applied Energy, 287, 116556, 2021</a> </li>
   <li><u>P. Agrawal</u>, G. G. Wells, R. Ledesma-Aguilar, G. McHale, A. Buchoux, A. Stokes and K. Sefiane, <i>Leidenfrost heat engine: Sustained rotation of levitating rotors on turbine-inspired substrates</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0306261919303320">Applied Energy, 240, 399-408, 2019</a> </li>
+  <li>L. E. Dodd, <u>P. Agrawal</u>, M. T. Parnell, N. R. Geraldi, B. B. Xu, G. G. Wells, S. Stuart-Cole, M. I. Newton, G. McHale, D. Wood <i>Low-friction self-centering droplet propulsion and transport using a Leidenfrost herringbone-ratchet structure</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.11.034063">Physical Review Applied, 11 (3), 034063, 2019</a> </li>
 </ul>
 </font>
   
