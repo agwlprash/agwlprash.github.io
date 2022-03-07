@@ -13,3 +13,7 @@ comments: true
 
 <a href="https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/smart-materials-surface-laboratory/">Smart Materials and Surfaces Laboratory (SMSL)</a>
 
+<a href="https://temporal-traces.blogspot.com/">Temporal traces</a>
+
+
+
