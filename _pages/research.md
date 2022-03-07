@@ -57,7 +57,7 @@ My complete list of research publications can be viewed on the following pages:<
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdrop" width="40%">  
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdrop" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%"> -->
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdrop" width="40%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdrop" width="40%">
