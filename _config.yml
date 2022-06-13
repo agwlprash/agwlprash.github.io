@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : #"PA"
 title_separator          : "|"
 subtitle                 : #"SMSL"
-name                     : #"PA"
+name                     : "PA"
 description              : #"PA"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : #"@SMSL_NU"
+  username               : "@Vela_Vaigyanik"
 facebook:
   username               :
   app_id                 :
@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/@SMSL_NU"
+      url: "https://twitter.com/@Vela_Vaigyanik"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/@SMSL_NU"
+      url: "https://twitter.com/@Vela_Vaigyanik"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
