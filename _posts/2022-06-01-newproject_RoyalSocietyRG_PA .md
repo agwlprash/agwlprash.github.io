@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project-Royal Society Research Grants"
+title:  "New project: Royal Society Research Grants"
 author_profile: false		
 tag: 							
   - Projects
