@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project-DSM"
+title:  "New project: EPSRC DSM"
 author_profile: false		
 tag: 							
   - Projects
