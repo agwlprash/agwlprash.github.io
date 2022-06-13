@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project-Northumbria Feasibility"
+title:  "New project: Northern Accerlator feasibility study"
 author_profile: false		
 tag: 							
   - Projects
