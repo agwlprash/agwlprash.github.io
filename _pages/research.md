@@ -29,6 +29,7 @@ My complete list of research publications can be viewed on the following pages:<
 #### Key relevant publications
 <font size="3">
 <ul type="square">
+  <li><u>P. Agrawal</u>, S. S. Bhanushali, P. S. Gandhi and A. Neild, <i>Capillary wave sieve: continuous particle separation using millimeter-scale capillary waves</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 2022</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Continuous focusing of microparticles in an open channel undergoing low frequency vibrations</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 10, 024036, 2018</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Particle manipulation affected by streaming flows in vertically actuated open rectangular chambers</i>, <a href="https://aip.scitation.org/doi/10.1063/1.4942240">Physics of Fluids, 28(3), 032001, 2016</a></li>
 </ul>
