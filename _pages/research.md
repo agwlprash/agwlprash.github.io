@@ -23,7 +23,8 @@ My complete list of research publications can be viewed on the following pages:<
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/SV4.gif" alt="sieve" width="40%">
    
   
 #### Key relevant publications
