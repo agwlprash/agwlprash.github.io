@@ -18,10 +18,10 @@ environment: production
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"PA"
+title                    : "PA"
 title_separator          : "|"
 subtitle                 : #"SMSL"
-name                     : "PA"
+name                     : "PAqw"
 description              : #"PA"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
