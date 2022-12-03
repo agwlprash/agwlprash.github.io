@@ -5,12 +5,12 @@ permalink: /
 excerpt: #Testing text
 header:
   overlay_image: /assets/NR.png
-  #overlay_filter: 0.5
-  #tagline: "test"
+  overlay_filter: 0.5
+  tagline: "test"
   #caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
-  #actions:
-   # - label: "Button"
-    #  url: "https://github.com"  
+  actions:
+    - label: "Button"
+      url: "https://github.com"  
 #author_profile: true
 #comments: true
 ---
