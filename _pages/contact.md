@@ -18,9 +18,4 @@ E306, Ellison Building <br>
 Northumbria University<br>
 Newcastle upon Tyne<br>
 NE1 8ST
-<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>
-
-&nbsp;<a href="https://www.researchgate.net/profile/Prashant-Agrawal-5"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>
-
-
-&nbsp;<a href="www.linkedin.com/in/agwlpra"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/rg.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>
+<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://www.researchgate.net/profile/Prashant-Agrawal-5"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="www.linkedin.com/in/agwlpra"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/rg.png" alt="PA" style="width: 5%; border: none; text-decoration: none"/></a>
