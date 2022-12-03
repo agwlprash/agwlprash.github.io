@@ -10,7 +10,7 @@ header:
   #caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
   actions:
     - label: "Button"
-      url: "https://github.com"  
+    - url: "https://github.com"  
 #author_profile: true
 #comments: true
 ---
