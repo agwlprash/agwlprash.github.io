@@ -9,7 +9,7 @@ comments: true
 ---
 <a id="Top_of_page">
   
-My complete list of research publications can be viewed on the following pages:<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>
+My complete list of research publications can be viewed on the following pages:<a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>
  
   
 [Particle-laden flow](#ParticleFlow){: .btn .btn--inverse}
@@ -86,5 +86,5 @@ My complete list of research publications can be viewed on the following pages:<
 </ul>
 </font>
 
-[Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
+[Navigate to top](#Top_of_page){: .btn .btn--primary .btn--small}
 
