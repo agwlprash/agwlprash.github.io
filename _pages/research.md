@@ -13,8 +13,8 @@ My complete list of research publications can be viewed on the following pages: 
  
   
 [Particle-laden flow](#ParticleFlow){: .btn .btn--inverse}
-[Porous media flow](#Porous){: .btn .btn--success}
-[Phase change](#PhaseChange){: .btn .btn--primary}
+[Porous media flow](#Porous){: .btn .btn--warning}
+[Phase change](#PhaseChange){: .btn .btn--default}
 [Soft matter](#SoftMatter){: .btn .btn--info}
   
 ## Particle-laden flow <a id="ParticleFlow"> 
@@ -86,5 +86,5 @@ My complete list of research publications can be viewed on the following pages: 
 </ul>
 </font>
 
-[Navigate to top](#Top_of_page){: .btn .btn--primary .btn--small}
+[Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
