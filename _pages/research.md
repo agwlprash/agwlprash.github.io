@@ -12,9 +12,9 @@ comments: true
 My complete list of research publications can be viewed on the following pages: <a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>
  
   
-[Particle-laden flow](#ParticleFlow){: .btn .btn--inverse}
-[Porous media flow](#Porous){: .btn .btn--warning}
-[Phase change](#PhaseChange){: .btn .btn--default}
+[Particle-laden flow](#ParticleFlow){: .btn}
+[Porous media flow](#Porous){: .btn .btn--info}
+[Phase change](#PhaseChange){: .btn .btn--info}
 [Soft matter](#SoftMatter){: .btn .btn--info}
   
 ## Particle-laden flow <a id="ParticleFlow"> 
