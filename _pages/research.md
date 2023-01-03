@@ -18,6 +18,14 @@ My complete list of research publications can be viewed on the following pages: 
 [Soft matter](#SoftMatter){: .btn .btn--inverse}
   
 ## Particle-laden flow <a id="ParticleFlow"> 
+
+  Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
+
+One common method is called "vibrational actuation," in which the object is placed on a vibrating surface. The vibration causes the object to move in a specific direction, depending on the frequency and amplitude of the vibration. This can be useful for separating particles, aligning them in a particular orientation, or moving them to a specific location.
+
+Another method is called "acoustic tweezing," in which sound waves are used to trap and move small particles. This can be achieved through the use of ultrasound, which are sound waves with a frequency higher than the range of human hearing. Acoustic tweezing has a number of applications, including drug delivery, material synthesis, and cell sorting.
+
+Overall, research involving vibrations to manipulate droplets and particles has the potential to revolutionize a wide range of fields, including microfluidics, biotechnology, and materials science.
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
@@ -37,6 +45,10 @@ My complete list of research publications can be viewed on the following pages: 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Porous media flow <a id="Porous"> 
+  
+Bio-inspired design is the process of using natural systems as a source of inspiration for the development of new technologies. We believe that nature has evolved solutions to many of the problems that we encounter in engineering, and by studying these solutions we can learn how to create more efficient and effective technologies.
+
+Our research focuses on using bio-inspired designs to improve the performance of fluid flow and heat transfer systems. These systems are critical for a wide range of applications, including energy production, transportation, and environmental protection. By improving their efficiency, we can help to reduce the environmental impact of these technologies and make them more cost-effective.
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leaf" width="40%">
   
