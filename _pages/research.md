@@ -12,12 +12,12 @@ comments: true
 My complete list of research publications can be viewed on the following pages: <a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>
  
   
-[Particle-laden flow](#ParticleFlow){: .btn .btn--inverse}
-[Porous media flow](#Porous){: .btn .btn--inverse}
+[Vibration assisted manipulation](#Vibration){: .btn .btn--inverse}
+[Bio-inspired transport](#Bio-inspired){: .btn .btn--inverse}
 [Phase change](#PhaseChange){: .btn .btn--inverse}
 [Soft matter](#SoftMatter){: .btn .btn--inverse}
   
-## Particle-laden flow <a id="ParticleFlow"> 
+## Vibration assisted manipulation <a id="Vibration"> 
 
   Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
 
@@ -39,12 +39,14 @@ Overall, research involving vibrations to manipulate droplets and particles has 
   <li><u>P. Agrawal</u>, S. S. Bhanushali, P. S. Gandhi and A. Neild, <i>Capillary wave sieve: continuous particle separation using millimeter-scale capillary waves</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 2022</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Continuous focusing of microparticles in an open channel undergoing low frequency vibrations</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 10, 024036, 2018</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Particle manipulation affected by streaming flows in vertically actuated open rectangular chambers</i>, <a href="https://aip.scitation.org/doi/10.1063/1.4942240">Physics of Fluids, 28(3), 032001, 2016</a></li>
+  <li>M.H. Biroun, L. Haworth, <u>P. Agrawal</u>, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, <i>Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces</i>, <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
+  <li>L. E. Dodd, <u>P. Agrawal</u>, N. R. Geraldi, B. B. Xu, G. G. Wells, J. Marting, M. I. Newton, G. McHale, and D. Wood, <i>Planar selective Leidenfrost propulsion without physically structured substrates or walls</i>, <a href="https://aip.scitation.org/doi/10.1063/5.0017699">Applied Physics Letters. 117, 081601, 2020</a></li>
 </ul>
 </font>
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
-## Porous media flow <a id="Porous"> 
+## Bio-inspired transport <a id="Bio-inspired"> 
   
 Bio-inspired design is the process of using natural systems as a source of inspiration for the development of new technologies. We believe that nature has evolved solutions to many of the problems that we encounter in engineering, and by studying these solutions we can learn how to create more efficient and effective technologies.
 
@@ -87,16 +89,3 @@ Our research focuses on using bio-inspired designs to improve the performance of
   
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
-  
-## Soft matter <a id="SoftMatter"> 
-  
-#### Key relevant publications
-<font size="3">
-<ul type="square">  
-  <li>M.H. Biroun, L. Haworth, <u>P. Agrawal</u>, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, <i>Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces</i>, <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
-  <li>L. E. Dodd, <u>P. Agrawal</u>, N. R. Geraldi, B. B. Xu, G. G. Wells, J. Marting, M. I. Newton, G. McHale, and D. Wood, <i>Planar selective Leidenfrost propulsion without physically structured substrates or walls</i>, <a href="https://aip.scitation.org/doi/10.1063/5.0017699">Applied Physics Letters. 117, 081601, 2020</a></li>
-</ul>
-</font>
-
-[Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
-
