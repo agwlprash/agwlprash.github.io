@@ -19,7 +19,7 @@ My complete list of research publications can be viewed on the following pages: 
   
 ## Vibration assisted manipulation <a id="Vibration"> 
 
-  Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
+Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
 
 One common method is called "vibrational actuation," in which the object is placed on a vibrating surface. The vibration causes the object to move in a specific direction, depending on the frequency and amplitude of the vibration. This can be useful for separating particles, aligning them in a particular orientation, or moving them to a specific location.
 
