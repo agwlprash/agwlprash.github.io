@@ -1,7 +1,7 @@
 ---
-title:  "Updates"
+title:  "News"
 layout: tags
-permalink: /Updates/
+permalink: /News/
 author_profile: false #true
 #comments: true
 ---
