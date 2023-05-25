@@ -19,4 +19,4 @@ The project will aim to develop novel scalable technologies for micro/nano-parti
 
 The other project partners are [Dr Hamdi Torun](https://researchportal.northumbria.ac.uk/en/persons/hamdi-torun "HT"), [Micropore Technolgies](https://microporetech.com/ "MT") and Cellsway [Cellsway](https://microporetech.com/ "CW").
 
-Keep a look out for Postdoctoral and PhD studentship opportunities on this page: [News]({{ site.url }}{{ site.baseurl }}/Updates/){: .btn .btn--inverse}
+Keep a look out for Postdoctoral and PhD studentship opportunities on this page: [News]({{ site.url }}{{ site.baseurl }}/News/){: .btn .btn--inverse}
