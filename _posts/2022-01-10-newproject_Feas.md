@@ -5,7 +5,7 @@
 
 layout: single
 excerpt_separator: <!--more-->
-title:  "New project: Northern Accerlator feasibility study"
+title:  "New project: Northern Accelerator feasibility study"
 author_profile: false		
 tag: 							
   - Projects
