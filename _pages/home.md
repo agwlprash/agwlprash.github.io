@@ -1,5 +1,5 @@
 ---
-title:  "Home"
+title:  "NITS"
 layout: splash
 permalink: /
 excerpt: #Testing text
