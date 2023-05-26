@@ -7,6 +7,8 @@ layout: single
 excerpt_separator: <!--more-->
 title:  "New project: EPSRC DSM"
 author_profile: false		
+header:
+  teaser: /assets/DSM-Network.jpg
 tag: 							
   - Projects
 ---
