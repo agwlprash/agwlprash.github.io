@@ -7,6 +7,8 @@ layout: single
 excerpt_separator: <!--more-->
 title:  "New project: EPSRC New Investigator Award"
 author_profile: false		
+header:
+  teaser: /assets/EPSRC logo.png
 tag: 							
   - Projects
 ---
