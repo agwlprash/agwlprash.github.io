@@ -10,7 +10,7 @@ author_profile: false
 header:
   teaser: /assets/NU_Logo_Black.png
 categories: 
-  -Projectsasdasd
+  - Projectsasdasd
 ---
 
 A project funded by Northumbria University starts!
