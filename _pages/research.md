@@ -15,6 +15,7 @@ My complete list of research publications can be viewed on the following pages: 
 [Vibration assisted manipulation](#Vibration){: .btn .btn--inverse}
 [Bio-inspired transport](#Bio-inspired){: .btn .btn--inverse}
 [Phase change](#PhaseChange){: .btn .btn--inverse}
+[Soft matter transport](#SoftMatter){: .btn .btn--inverse}
   
 ## Vibration assisted manipulation <a id="Vibration"> 
 
@@ -86,5 +87,9 @@ Our research focuses on using bio-inspired designs to improve the performance of
 </ul>
 </font>
   
+[Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
+  
+  
+## Soft matter transport <a id="SoftMatter"> 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
