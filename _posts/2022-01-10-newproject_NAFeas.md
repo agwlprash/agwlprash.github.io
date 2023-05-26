@@ -7,6 +7,8 @@ layout: single
 excerpt_separator: <!--more-->
 title:  "New project: Northern Accelerator feasibility study"
 author_profile: false		
+header:
+  teaser: /assets/NorthernAccelerator.png
 tag: 							
   - Projects
 ---
