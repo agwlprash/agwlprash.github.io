@@ -7,6 +7,8 @@ layout: single
 excerpt_separator: <!--more-->
 title:  "New project: SLIPping away"
 author_profile: false		
+header:
+  teaser: /assets/NU_Logo_Black.png
 tag: 							
   - Projects
 ---
