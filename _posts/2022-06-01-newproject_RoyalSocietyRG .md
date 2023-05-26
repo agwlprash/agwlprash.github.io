@@ -7,6 +7,8 @@ layout: single
 excerpt_separator: <!--more-->
 title:  "New project: Royal Society Research Grants"
 author_profile: false		
+header:
+  teaser: /assets/RoyalSociety.png
 tag: 							
   - Projects
 ---
