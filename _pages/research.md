@@ -32,7 +32,8 @@ Overall, research involving vibrations to manipulate droplets and particles has 
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
-<b>Research Funding:</b> Northern Accelerator, EPSRC
+<b>Research Funding:</b> <a href="https://northernaccelerator.org/">Northern Accelerator</a>, <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a>
+  
   
 #### Key relevant publications
 <font size="3">
