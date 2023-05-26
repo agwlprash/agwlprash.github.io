@@ -32,6 +32,7 @@ Overall, research involving vibrations to manipulate droplets and particles has 
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
    
+<b>Research Funding:</b> Northern Accelerator, EPSRC
   
 #### Key relevant publications
 <font size="3">
@@ -55,6 +56,8 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leaf" width="40%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/BPA1.png" alt="BPA" width="40%">
+  
+<b>Research Funding:</b> The Royal Society, EPSRC DSM Network+
   
 #### Key relevant publications
 <font size="3">
