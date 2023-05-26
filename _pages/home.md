@@ -4,10 +4,10 @@ layout: splash
 permalink: /
 excerpt: #Testing text
 header:
-  overlay_image: /assets/NR.png
-  overlay_filter: 0.5
-  tagline: "test"
-  caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
+  #overlay_image: /assets/NR.png
+  #overlay_filter: 0.5
+  #tagline: "test"
+  #caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
   #actions:
     #- label: "Git"
       #url: "https://github.com"  
