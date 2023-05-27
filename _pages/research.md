@@ -35,7 +35,7 @@ Overall, research involving vibrations to manipulate droplets and particles has 
 <b>Research Funding:</b> <a href="https://northernaccelerator.org/">Northern Accelerator</a>, <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a>
   
   
-#### Key relevant publications
+#### Key publications
 <font size="3">
 <ul type="square">
   <li><u>P. Agrawal</u>, S. S. Bhanushali, P. S. Gandhi and A. Neild, <i>Capillary wave sieve: continuous particle separation using millimeter-scale capillary waves</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.054070">Physical Review Applied, 18, 054070, 2022</a></li>
@@ -60,7 +60,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   
 <b>Research Funding:</b> The Royal Society, EPSRC DSM Network+
   
-#### Key relevant publications
+#### Key publications
 <font size="3">
 <ul type="square">
   <li><u>P. Agrawal</u>, H. Kumar and P. Kumar, <i>Rapid and even spreading of complex fluids over a large area in porous subsrates</i>, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019939?journalCode=apl">Applied Physics Letters, 117, 073703, 2020</a> (Selected by the journal as a <b><i>Featured Article</i></b>: Sandwich device ensures rapid and even spreading of biofluids for analysis, <a href="https://aip.scitation.org/doi/10.1063/10.0001880">AIP Scilight, 2020</a>)</li>
@@ -81,7 +81,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">
   
-#### Key relevant publications
+#### Key publications
 <font size="3">
 <ul type="square">  
   <li><u>P. Agrawal</u> and G. McHale, <i>Leidenfrost Effect and Surface Wettability</i>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-82992-6_7">The Surface Wettability Effect on Phase Change, Springer, 189-233, 2021</a></li>
