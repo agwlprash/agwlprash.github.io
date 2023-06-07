@@ -14,7 +14,7 @@ header:
 #author_profile: true
 #comments: true
 ---
-## Nature Inspired Transport Systems (NITS)
+## Nature Inspired Transport Systems
 
 ### Research
 
