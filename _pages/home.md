@@ -24,7 +24,8 @@ Over the course of my research career I have worked on different fundamental and
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/res_int.png" alt="chamber" width="40%">
 
-
+ <!-- 
 ### Background
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/Background.png" alt="background" width="100%">&nbsp;
+--> 
