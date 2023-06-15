@@ -18,7 +18,7 @@ environment: production
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SMSL|NITS" #Nature Inspired Transport Systems
+title                    : "SMSL | NITS" #Nature Inspired Transport Systems
 title_separator          : "|"
 subtitle                 : #"SMSL"
 name                     : "PA"
