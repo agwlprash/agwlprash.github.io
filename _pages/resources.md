@@ -3,7 +3,7 @@ title:  "Resources"
 layout: archive
 permalink: /Resources/
 sidebar:
-  nav: "main2"
+  nav: "main"
 author_profile: false #true
 comments: true
 ---
