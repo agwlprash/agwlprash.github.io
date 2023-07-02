@@ -11,11 +11,14 @@ comments: true
   
 My complete list of research publications can be viewed on: <a href="https://researchportal.northumbria.ac.uk/en/researchers/prashant-agrawal(77d1b36e-20c5-44a5-8f7e-97211143c73c).html"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nub.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=6qbion4AAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="PA" style="width: 3%; border: none; text-decoration: none"/></a>
  
-  
+Our research spans the following key themes:
+
 [Wave assisted particle manipulation](#Vibration){: .btn .btn--inverse}
 [Bio-inspired transport](#Bio-inspired){: .btn .btn--inverse}
 [Phase change](#PhaseChange){: .btn .btn--inverse}
 [Soft matter transport](#SoftMatter){: .btn .btn--inverse}
+
+[Research facilities and capabilities](#ResearchCap){: .btn .btn--inverse}
   
 ## Wave assisted particle manipulation <a id="Vibration"> 
 
@@ -36,7 +39,7 @@ Overall, research involving vibrations to manipulate droplets and particles has 
   
   
 #### Key publications
-<font size="3">
+<font size="2">
 <ul type="square">
   <li><u>P. Agrawal</u>, S. S. Bhanushali, P. S. Gandhi and A. Neild, <i>Capillary wave sieve: continuous particle separation using millimeter-scale capillary waves</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.054070">Physical Review Applied, 18, 054070, 2022</a></li>
   <li><u>P. Agrawal</u>, P. S. Gandhi and A. Neild, <i>Continuous focusing of microparticles in an open channel undergoing low frequency vibrations</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.10.024036">Physical Review Applied, 10, 024036, 2018</a></li>
@@ -61,7 +64,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
 <b>Research Funding:</b> The Royal Society, EPSRC DSM Network+
   
 #### Key publications
-<font size="3">
+<font size="2">
 <ul type="square">
   <li><u>P. Agrawal</u>, H. Kumar and P. Kumar, <i>Rapid and even spreading of complex fluids over a large area in porous subsrates</i>, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019939?journalCode=apl">Applied Physics Letters, 117, 073703, 2020</a> (Selected by the journal as a <b><i>Featured Article</i></b>: Sandwich device ensures rapid and even spreading of biofluids for analysis, <a href="https://aip.scitation.org/doi/10.1063/10.0001880">AIP Scilight, 2020</a>)</li>
   <li><u>P. Agrawal</u>, P. S. Gandhi, M. Majumder, and P. Kumar, <i>Insight into the design and fabrication of a leaf mimicking micropump</i>, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.031002">Physical Review Applied, 12, 031002, 2019</a> (Selected by the American Physical Society for a '<b><i>Featured in Physics</i></b>' focus article: Leaf-like veins are key to efficient pump, <a href="https://physics.aps.org/articles/v12/102">Physics, 12, 102, 2019</a>) </li> 
@@ -82,7 +85,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">
   
 #### Key publications
-<font size="3">
+<font size="2">
 <ul type="square">  
   <li><u>P. Agrawal</u> and G. McHale, <i>Leidenfrost Effect and Surface Wettability</i>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-82992-6_7">The Surface Wettability Effect on Phase Change, Springer, 189-233, 2021</a></li>
   <li><u>P. Agrawal</u>, G. G. Wells, R. Ledesma-Aguilar, G. McHale and K. Sefiane, <i>Beyond Leidenfrost levitation: A thin-film boiling engine for controlled power generation</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0306261921001045">Applied Energy, 287, 116556, 2021</a> </li>
@@ -96,4 +99,16 @@ Our research focuses on using bio-inspired designs to improve the performance of
   
 ## Soft matter transport <a id="SoftMatter"> 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
-  
+
+## Research facilities and capabilities <a id="ResearchCap"> 
+
+<ul type="square">  
+  <li>High-speed imaging</li>
+  <li>Thermal imaging</li>
+  <li>Environemntal control systems</li>
+  <li>Soft lithography</li>
+  <li>Rheology</li>
+  <li>Surface characterisation</li>
+</ul>
+
+[Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
