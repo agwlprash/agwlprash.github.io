@@ -2,8 +2,8 @@
 title:  "Research"
 layout: archive
 permalink: /Research/
-#sidebar:
-  #nav: "docs"
+sidebar:
+  nav: "main"
 comments: true
 #{% include video id="660004479" provider="vimeo"%} 
 ---
