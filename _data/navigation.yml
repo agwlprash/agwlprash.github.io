@@ -5,14 +5,16 @@ main:
   - title: "Research"
     url: /Research/
     children:
-    - title: "Vibration"
+    - title: "Particle manipulation"
       url: /Research/#Vibration
-    - title: "Vibration"
-      url: /Research/#Vibration
-    - title: "Vibration"
-      url: /Research/#Vibration
-    - title: "Vibration"
-      url: /Research/#Vibration
+    - title: "Bio-inspired transport"
+      url: /Research/#Bio-inspired
+    - title: "Phase change"
+      url: /Research/#PhaseChange
+    - title: "Soft matter transport"
+      url: /Research/#SoftMatter
+    - title: "Research facilities and capabilities"
+      url: /Research/#ResearchCap
   - title: "News"
     url: /News/
   #- title: "People"
@@ -21,7 +23,6 @@ main:
     url: /Contact/
   - title: "Resources"
     url: /Resources/
-
    
 docs:
   - title: Bio-engineering
