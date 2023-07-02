@@ -12,4 +12,14 @@ comments: true
 
 ## PhD students
 
+David Roughton-Reay
+
 ## Collaborators
+
+Dr Hamdi Torun
+
+Dr Gary Wells
+
+Prof Glen McHale
+
+Dr Prasoon Kumar
