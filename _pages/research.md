@@ -22,7 +22,7 @@ Our research spans the following key themes:
   
 ## Wave assisted particle manipulation <a id="Vibration"> 
 
-[Research]({{ site.url }}{{ site.baseurl }}/Research/Bio-inspired){: .btn .btn--inverse}
+[Research]({{ site.url }}{{ site.baseurl }}/Research/#Bio-inspired){: .btn .btn--inverse}
 
 Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
 
