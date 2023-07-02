@@ -3,7 +3,7 @@ title:  "News"
 layout: tags
 permalink: /News/
 sidebar:
-  nav: "main2"
+  nav: "main"
 author_profile: false #true
 #comments: true
 ---
