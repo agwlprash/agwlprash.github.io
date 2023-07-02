@@ -108,6 +108,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <li>Environmental control systems</li>
   <li>Soft lithography</li>
   <li>Rheology</li>
+  <li>Surface coatings</li>
   <li>Surface characterisation</li>
 </ul>
 
