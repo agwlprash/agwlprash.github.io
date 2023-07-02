@@ -14,16 +14,6 @@ header:
 #author_profile: true
 #comments: true
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D7G241XNRN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-D7G241XNRN');
-</script>
-
 
 ## Nature Inspired Transport Systems
 
