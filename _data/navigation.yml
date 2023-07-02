@@ -7,6 +7,12 @@ main:
     children:
     - title: "Vibration"
       url: /Research/#Vibration
+    - title: "Vibration"
+      url: /Research/#Vibration
+    - title: "Vibration"
+      url: /Research/#Vibration
+    - title: "Vibration"
+      url: /Research/#Vibration
   - title: "News"
     url: /News/
   #- title: "People"
