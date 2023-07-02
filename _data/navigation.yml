@@ -3,7 +3,10 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /Research/    
+    url: /Research/
+    children:
+    - title: "Vibration"
+      url: /Research/#Vibration
   - title: "News"
     url: /News/
   #- title: "People"
