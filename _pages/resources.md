@@ -14,7 +14,6 @@ comments: true
 
 <a href="https://fluids.ac.uk/"><img src="{{ site.url }}{{ site.baseurl }}/assets/UKFN.png" alt="UKFN" style="width: 40%; border: none; text-decoration: none"/></a>&nbsp;
 
-<a href="https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/smart-materials-surface-laboratory/">Smart Materials and Surfaces Laboratory (SMSL)</a>
 
 
 
