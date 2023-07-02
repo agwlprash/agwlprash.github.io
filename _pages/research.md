@@ -3,7 +3,7 @@ title:  "Research"
 layout: archive
 permalink: /Research/
 sidebar:
-  nav: "main"
+  nav: "main2"
 comments: true
 #{% include video id="660004479" provider="vimeo"%} 
 ---
