@@ -105,7 +105,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
 <ul type="square">  
   <li>High-speed imaging</li>
   <li>Thermal imaging</li>
-  <li>Environemntal control systems</li>
+  <li>Environmental control systems</li>
   <li>Soft lithography</li>
   <li>Rheology</li>
   <li>Surface characterisation</li>
