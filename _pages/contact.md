@@ -2,6 +2,8 @@
 title:  "Contact"
 layout: single
 permalink: /Contact/
+sidebar:
+  nav: "main2"
 author_profile: true
 comments: true
 ---
