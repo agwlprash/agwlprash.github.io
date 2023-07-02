@@ -12,6 +12,29 @@ main:
     url: /Contact/
   - title: "Resources"
     url: /Resources/
+
+
+main2:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /Research/
+    children:
+    -title: "Wave manipulation"
+     url: /Research/#Bio-inspired
+    -title: "Bio-inspired transport"
+     url: /Research/#Vibration
+  - title: "News"
+    url: /News/
+  #- title: "People"
+    #url: /People/
+  - title: "Contact"
+    url: /Contact/
+  - title: "Resources"
+    url: /Resources/
+
+
+
     
 docs:
   - title: Bio-engineering
