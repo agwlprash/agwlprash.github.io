@@ -1,5 +1,5 @@
 ---
-title:  "NITS"
+#title:  "NITS"
 layout: splash
 permalink: /
 excerpt: #Testing text
