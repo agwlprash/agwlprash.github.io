@@ -1,5 +1,5 @@
 ---
-#title:  "NITS"
+title:  "Nature Inspired Transport Systems"
 layout: splash
 permalink: /
 excerpt: #Testing text
