@@ -5,7 +5,7 @@ permalink: /
 excerpt: #Testing text
 header:
   overlay_image: /assets/Site_logo2.png
-  overlay_filter: linear-gradient(rgba(50, 255, 50, 0.5), rgba(50, 50, 255, 0.5))
+  overlay_filter: linear-gradient(rgba(153, 255, 204, 0.5), rgba(50, 50, 255, 0.5))
   #overlay_filter: rgba(50, 50, 255, 0.25)
   #tagline: "test"
   #caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
