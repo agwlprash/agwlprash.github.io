@@ -110,6 +110,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <li>Rheology</li>
   <li>Surface coatings</li>
   <li>Surface characterisation</li>
+  <li>Finite element simulations</li>
 </ul>
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
