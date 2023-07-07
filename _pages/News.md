@@ -1,9 +1,19 @@
+#---
+#title:  "News"
+#layout: tags
+#permalink: /News/
+#sidebar:
+#  nav: "main"
+#author_profile: false #true
+#comments: true
+#---
+
+
 ---
-title:  "News"
+title: Portfolio
 layout: tags
 permalink: /News/
-sidebar:
-  nav: "main"
-author_profile: false #true
-#comments: true
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
