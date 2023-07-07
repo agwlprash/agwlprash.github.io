@@ -4,6 +4,8 @@ layout: tags
 permalink: /News/
 collection: portfolio
 entries_layout: grid
+sidebar:
+  nav: "main"
 #classes: wide
 ---
 
