@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-
+<!--
 #---
 #title:  "News"
 #layout: tags
@@ -17,3 +17,5 @@ classes: wide
 #author_profile: false #true
 #comments: true
 #---
+
+-->
