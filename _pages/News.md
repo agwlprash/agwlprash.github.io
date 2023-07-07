@@ -1,3 +1,13 @@
+---
+title: Portfolio
+layout: tags
+permalink: /News/
+collection: portfolio
+entries_layout: grid
+classes: wide
+---
+
+
 #---
 #title:  "News"
 #layout: tags
@@ -7,13 +17,3 @@
 #author_profile: false #true
 #comments: true
 #---
-
-
----
-title: Portfolio
-layout: tags
-permalink: /News/
-collection: portfolio
-entries_layout: grid
-classes: wide
----
