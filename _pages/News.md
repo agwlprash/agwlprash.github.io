@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: News
 layout: tags
 permalink: /News/
 collection: portfolio
