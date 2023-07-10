@@ -5,14 +5,14 @@ main:
   - title: "Research"
     url: /Research/
     children:
-    - title: "Particle manipulation"
-      url: /Research/#Vibration
-    - title: "Bio-inspired transport"
-      url: /Research/#Bio-inspired
-    - title: "Phase change"
+    - title: "Capillary waves and microparticles"
+      url: /Research/#CapillaryWaves
+    - title: "Capillary networks for transport"
+      url: /Research/#CapillaryNetworks
+    - title: "Phase change dynamics"
       url: /Research/#PhaseChange
-    - title: "Soft matter transport"
-      url: /Research/#SoftMatter
+    - title: "Surface coatings"
+      url: /Research/#SurfaceCoatings
     - title: "Research facilities and capabilities"
       url: /Research/#ResearchCap
   - title: "News"
