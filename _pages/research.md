@@ -13,14 +13,14 @@ Our complete list of research publications can be viewed on: <a href="https://re
  
 Our research spans the following key themes:
 
-[Wave assisted particle manipulation](#Vibration){: .btn .btn--inverse}
-[Bio-inspired transport](#Bio-inspired){: .btn .btn--inverse}
-[Phase change](#PhaseChange){: .btn .btn--inverse}
-[Soft matter transport](#SoftMatter){: .btn .btn--inverse}
+[Capillary waves and microparticles](#CapillaryWaves){: .btn .btn--inverse}
+[Capillary networks for transport](#CapillaryNetworks){: .btn .btn--inverse}
+[Phase change dynamics](#PhaseChange){: .btn .btn--inverse}
+[Surface coatings](#SurfaceCoatings){: .btn .btn--inverse}
 
 [Research facilities and capabilities](#ResearchCap){: .btn .btn--inverse}
   
-## Wave assisted particle manipulation <a id="Vibration"> 
+## Capillary waves and microparticles <a id="CapillaryWaves"> 
 
 Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
 
@@ -51,7 +51,7 @@ Overall, research involving vibrations to manipulate droplets and particles has 
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
-## Bio-inspired transport <a id="Bio-inspired"> 
+## Capillary networks for transport <a id="CapillaryNetworks"> 
   
 Bio-inspired design is the process of using natural systems as a source of inspiration for the development of new technologies. We believe that nature has evolved solutions to many of the problems that we encounter in engineering, and by studying these solutions we can learn how to create more efficient and effective technologies.
 
@@ -74,7 +74,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
  
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
-## Phase change <a id="PhaseChange"> 
+## Phase change dynamics <a id="PhaseChange"> 
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%">
@@ -97,7 +97,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
   
   
-## Soft matter transport <a id="SoftMatter"> 
+## Surface coatings <a id="SurfaceCoatings"> 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Research facilities and capabilities <a id="ResearchCap"> 
