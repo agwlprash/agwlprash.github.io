@@ -96,6 +96,15 @@ Our research focuses on using bio-inspired designs to improve the performance of
   
   
 ## Surface coatings <a id="SurfaceCoatings"> 
+<font size="2">
+<ul type="square">  
+  <li> M.H. Biroun, L. Haworth, <u>P. Agrawal</u>, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, <i>Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces</i>, <a href="https://pubs.acs.org/doi/full/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
+</ul>
+</font>
+
+
+
+
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Research facilities and capabilities <a id="ResearchCap"> 
