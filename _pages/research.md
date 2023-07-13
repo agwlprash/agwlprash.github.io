@@ -117,7 +117,7 @@ Our research focuses on using bio-inspired designs to improve the performance of
   <li>Rheology</li>
   <li>Surface coatings</li>
   <li>Surface characterisation</li>
-  <li>Finite element simulations</li>
+  <li>Finite element simulations <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/peristaltic_3D.gif" alt="chamber" width="40%">&nbsp;</li> 
 </ul>
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
