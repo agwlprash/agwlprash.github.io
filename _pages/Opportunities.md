@@ -1,5 +1,5 @@
 ---
-title:  "Opporunities"
+title:  "Opportunities"
 layout: archive
 permalink: /Opportunities/
 #sidebar:
