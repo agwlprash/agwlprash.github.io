@@ -4,11 +4,11 @@ layout: splash
 permalink: /
 excerpt: #Testing text
 header:
-  overlay_image: /assets/researchims/LFplaterotation.gif #Site_logo_square.png
+  overlay_image: /assets/researchims/banner.png
   #overlay_filter: linear-gradient(rgba(153, 255, 204, 0.5), rgba(50, 50, 255, 0.5))
   overlay_filter: rgba(50, 50, 255, 0.15)
   #tagline: "test"
-  #caption: "Photo credit: [Dr PA]"#(https://SMSL.com)"
+  caption: "Photo credit: [unsplash.com](https://unsplash.com)"
   #actions:
     #- label: "Git"
       #url: "https://github.com"  
