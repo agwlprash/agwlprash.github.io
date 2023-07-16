@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 excerpt: #Testing text
 header:
-  overlay_image: /assets/researchims/banner.png
+  overlay_image: /assets/banner.png
   #overlay_filter: linear-gradient(rgba(153, 255, 204, 0.5), rgba(50, 50, 255, 0.5))
-  overlay_filter: rgba(50, 50, 255, 0.15)
+  overlay_filter: rgba(255, 255, 255, 0.3)
   #tagline: "test"
   caption: "Photo credit: [unsplash.com](https://unsplash.com)"
   #actions:
