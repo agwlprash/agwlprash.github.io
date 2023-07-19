@@ -6,7 +6,7 @@
 layout: single
 excerpt_separator: <!--more-->
 title:  "Postdoctoral research associate position" 			
-author_profile: false
+author_profile: true
 header:
   teaser: /assets/EPSRC logo.png		
 tag: 							
@@ -14,7 +14,7 @@ tag:
   - Postdoc
 ---
 
-Postdoctoral research associate position on an exciting research in soft matter and microdluific systems! <br>
+Postdoctoral research associate position on an exciting research in soft matter and microfluidic systems! <br>
 
 **Apply by 20<sup>th</sup> August, 2023!**
 
