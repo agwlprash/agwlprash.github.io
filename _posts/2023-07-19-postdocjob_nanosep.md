@@ -29,7 +29,7 @@ More project details are provided in the following [advert link](https://work4.n
 
 Exciting projects related to this research field are already underway! Keep checking the Research page for updates: [Research]({{ site.url }}{{ site.baseurl }}/Research/){: .btn .btn--inverse}
 
-Contact Dr Prashant Agrawal for more details at <a href = "mailto: prashant.agrawal@northumbria.ac.uk">prashant.agrawal@northumbria.ac.uk</a>
+Feel free to <a href = "mailto: prashant.agrawal@northumbria.ac.uk">contact</a> for more details and discussion.
 
 
 <!--An exciting postdoctoral research position is available in our group in the area of microsystems and soft matter physics. In this project we are developing nature inspired systems for micro and nano particle manipulation. If you are interested in working in applied physics, soft matter and engineering, please feel free to get in touch. Application closing date: 20<sup>th</sup> August, 2023!-->
