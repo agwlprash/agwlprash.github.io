@@ -15,9 +15,9 @@ header:
 #author_profile: true
 #comments: true
 ---
-
-## Nature Inspired Transport Systems
 <!--
+## Nature Inspired Transport Systems
+
 ### Research
 
 My research interests are in multiphase fluid dynamics and involves developing tools and techniques for different engineering applications. Several natural and industrial processes rely on multiphase flows, e.g., nutrient transport in biological systems, sediment transport in water bodies, microparticle production, drug delivery and heat exchangers. Their ubiquitous nature at a wide range of system scales, from microchannel flows to industrial scale reactors, have spawned applications across several industries and disciplines such as energy harvesting, forensics and the development of healthcare and diagnostic devices.
