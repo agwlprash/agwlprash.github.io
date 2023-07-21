@@ -11,7 +11,7 @@ tag:
   - Group News
 ---
 
-David starts as a PhD student!
+David starts his PhD!
 
 <!--more-->
 
