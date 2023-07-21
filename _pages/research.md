@@ -22,13 +22,9 @@ Our research spans the following key themes:
   
 ## Capillary waves and microparticles <a id="CapillaryWaves"> 
 
-Vibrations are mechanical oscillations that occur around an equilibrium point. They can be induced by various sources, such as sound waves, electrical signals, or mechanical forces. Vibrations can be used to manipulate small objects, such as droplets and particles, in a number of ways.
+Mimicking the striations of sand on beaches, in this research we use low frequency water waves to enrich and sort nano- and  micro-particles in micro and millifuidic systems. 
 
-One common method is called "vibrational actuation," in which the object is placed on a vibrating surface. The vibration causes the object to move in a specific direction, depending on the frequency and amplitude of the vibration. This can be useful for separating particles, aligning them in a particular orientation, or moving them to a specific location.
-
-Another method is called "acoustic tweezing," in which sound waves are used to trap and move small particles. This can be achieved through the use of ultrasound, which are sound waves with a frequency higher than the range of human hearing. Acoustic tweezing has a number of applications, including drug delivery, material synthesis, and cell sorting.
-
-Overall, research involving vibrations to manipulate droplets and particles has the potential to revolutionize a wide range of fields, including microfluidics, biotechnology, and materials science.
+The ability to manipulate droplets and particles has the potential to revolutionize a wide range of fields, including microfluidics, biotechnology, and materials science.
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
