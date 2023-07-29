@@ -19,8 +19,8 @@ main:
     url: /News/
   - title: "Opportunities"
     url: /Opportunities/
-  #- title: "People"
-    #url: /People/
+  - title: "People"
+    url: /People/
   - title: "Contact"
     url: /Contact/
   - title: "Resources"
