@@ -7,6 +7,4 @@ permalink: /Opportunities/
 comments: true
 ---
 
-## Coming soon
-
 [Postdoctoral research associate]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
