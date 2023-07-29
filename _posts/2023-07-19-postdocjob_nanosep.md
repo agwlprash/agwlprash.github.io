@@ -4,6 +4,7 @@
 #'tags': Add tags to your post. Multiple tags can be added in the next line. The current list shows the ones already on the website. If your desired tag matches these then please retain, otherwise you can add more. Please make sure of the letter case; we would not want repeats like 'jobs' and 'jobs'
 
 layout: single
+permalink: /PostdocNIA/
 excerpt_separator: <!--more-->
 title:  "Postdoctoral research associate position" 			
 author_profile: true
