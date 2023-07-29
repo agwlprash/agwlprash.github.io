@@ -9,6 +9,4 @@ comments: true
 
 ## Coming soon
 
-[Postdoc]({{ site.url }}{{ site.baseurl }}/PostdocNIA/){: .btn .btn--inverse}
-
-[advert link]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
+[Postdoctoral research associate]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
