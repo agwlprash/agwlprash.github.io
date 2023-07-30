@@ -72,7 +72,7 @@ Phase change phenomena like condensation and boiling are ubiquitous, from indust
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">{: .align-center}
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">
   
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%"> -->  
