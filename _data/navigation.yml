@@ -17,8 +17,8 @@ main:
       url: /Research/#ResearchCap
   - title: "News"
     url: /News/
-  - title: "Opportunities"
-    url: /Opportunities/
+  #- title: "Opportunities"
+    #url: /Opportunities/
   - title: "People"
     url: /People/
   - title: "Contact"
