@@ -25,7 +25,9 @@ My research interests are in multiphase fluid dynamics and involves developing t
 Over the course of my research career I have worked on different fundamental and applied problems: from investigating microparticle dynamics in vibrating droplets to developing novel frictionless engines. To achieve these research objectives, I design and develop experimental procedures and formulate supportive analytical and numerical models.
 -->
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png" alt="Research" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png" alt="Research" width="50%">{: .align-center}
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png){: .align-center}
 
 ### Upcoming opportunities
 
