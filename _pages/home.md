@@ -26,3 +26,7 @@ Over the course of my research career I have worked on different fundamental and
 -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png" alt="Research" width="100%">
+
+### Upcoming opportunities
+
+[Postdoctoral research associate position (3 years)]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
