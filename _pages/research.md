@@ -26,8 +26,8 @@ Mimicking the striations of sand on beaches, in this research we use low frequen
 
 The ability to manipulate particulates has a range of applications in process industries, microfluidics, bio-processing, and material science.
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="50%">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="50%">
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="60%">{: .align-center}
    
@@ -112,7 +112,7 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
   <li>Environmental control systems</li>
   <li>Soft lithography</li>
   <li>Rheology <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/kinexus.png" alt="rheo" width="50%">&nbsp;</li> 
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/kinexus.png" alt="rheo" width="30%">&nbsp;</li> 
   <li>Surface coatings</li>
   <li>Surface characterisation</li>
   <li>Rapid prototyping</li>
