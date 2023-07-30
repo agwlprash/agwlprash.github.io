@@ -111,7 +111,7 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
   <li>Thermal imaging</li>
   <li>Environmental control systems</li>
   <li>Soft lithography</li>
-  <li>Rheology</li> <br>
+  <li>Rheology <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/kinexus.png" alt="rheo" width="50%">&nbsp;</li> 
   <li>Surface coatings</li>
   <li>Surface characterisation</li>
