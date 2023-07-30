@@ -15,7 +15,7 @@ header:
 #author_profile: true
 #comments: true
 ---
-Throughout the course of evolution, natural species has finely optimized countless solutions to several of our engineering problems. In our research, we draw inspiration from natural fluid systems to explore innovative ways to address various challenges across different fields. By employing a combination of analytical, theoretical, and experimental tools we aim to understand and replicate natural design principles to develop transformative solutions. {: .text-justify}
+{: .text-justify} Throughout the course of evolution, natural species have finely optimized countless solutions to several of our engineering problems. In our research, we draw inspiration from natural fluid systems to explore innovative ways to address various challenges across different fields. By employing a combination of analytical, theoretical, and experimental tools we aim to understand and replicate natural design principles to develop transformative solutions.
 
 ### Upcoming opportunities
 
