@@ -70,10 +70,10 @@ Nature has evolved multi-scaled structures, balancing convective and diffusive f
 
 Phase change phenomena like condensation and boiling are ubiquitous, from industrial processes to household equipment. Using unique surface interactions, we investigate and control phase change dynamics of soft matter for a range of applications in power generation, heat exchange and water purification.
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">{: .align-center}
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">{: .align-center}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">
   
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%"> -->  
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%"> -->
@@ -106,7 +106,7 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
 ## Research facilities and capabilities <a id="ResearchCap"> 
 
 <ul type="square">  
-  <li>High-speed imaging
+  <li>High-speed imaging <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/high_speed_impact.gif" alt="chamber" width="50%">&nbsp;</li> 
   <li>Thermal imaging</li>
   <li>Environmental control systems</li>
