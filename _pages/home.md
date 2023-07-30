@@ -15,6 +15,16 @@ header:
 #author_profile: true
 #comments: true
 ---
+Throughout the course of evolution, natural species has finely optimized countless solutions to several of our engineering problems. In our research, we draw inspiration from natural fluid systems to explore innovative ways to address various challenges across different fields. By employing a combination of analytical, theoretical, and experimental tools we aim to understand and replicate natural design principles to develop transformative solutions.{: .align-center}
+
+### Upcoming opportunities
+
+[Postdoctoral research associate position (3 years)]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png" alt="Research" width="70%">{: .align-center}
+
+
+
 <!--
 ## Nature Inspired Transport Systems
 
@@ -24,9 +34,3 @@ My research interests are in multiphase fluid dynamics and involves developing t
 
 Over the course of my research career I have worked on different fundamental and applied problems: from investigating microparticle dynamics in vibrating droplets to developing novel frictionless engines. To achieve these research objectives, I design and develop experimental procedures and formulate supportive analytical and numerical models.
 -->
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/Site_res_summary.png" alt="Research" width="70%">{: .align-center}
-
-### Upcoming opportunities
-
-[Postdoctoral research associate position (3 years)]({{ site.url }}{{ site.baseurl }}/PostdocNIA/)
