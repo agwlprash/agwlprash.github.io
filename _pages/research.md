@@ -107,16 +107,17 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
 
 <ul type="square">  
   <li>High-speed imaging <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/high_speed_impact.gif" alt="chamber" width="50%">&nbsp;</li> 
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/high_speed_impact.gif" alt="highspeed" width="50%">&nbsp;</li> 
   <li>Thermal imaging</li>
   <li>Environmental control systems</li>
   <li>Soft lithography</li>
-  <li>Rheology</li>
+  <li>Rheology</li> <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/kinexus.png" alt="rheo" width="50%">&nbsp;</li> 
   <li>Surface coatings</li>
   <li>Surface characterisation</li>
   <li>Rapid prototyping</li>
   <li>Finite element simulations <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/peristaltic_3D.gif" alt="chamber" width="50%">&nbsp;</li> 
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/peristaltic_3D.gif" alt="sims" width="50%">&nbsp;</li> 
 </ul>
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
