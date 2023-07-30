@@ -22,9 +22,9 @@ Our research spans the following key themes:
   
 ## Capillary waves and microparticles <a id="CapillaryWaves"> 
 
-Mimicking the striations of sand on beaches, in this research we use low frequency water waves to enrich and sort nano- and  micro-particles in micro and millifuidic systems. 
+Mimicking the striations of sand on beaches, in this research we use low frequency (~ 10 Hz) water waves to enrich and sort nano- and  micro-particles in micro and millifuidic systems. 
 
-The ability to manipulate droplets and particles has the potential to revolutionize a wide range of fields, including microfluidics, biotechnology, and materials science.
+The ability to manipulate particulates has a range of applications in process industries, microfluidics, bio-processing, and material science.
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
@@ -46,10 +46,11 @@ The ability to manipulate droplets and particles has the potential to revolution
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Capillary networks for transport <a id="CapillaryNetworks"> 
-  
-Bio-inspired design is the process of using natural systems as a source of inspiration for the development of new technologies. We believe that nature has evolved solutions to many of the problems that we encounter in engineering, and by studying these solutions we can learn how to create more efficient and effective technologies.
 
-Our research focuses on using bio-inspired designs to improve the performance of fluid flow and heat transfer systems. These systems are critical for a wide range of applications, including energy production, transportation, and environmental protection. By improving their efficiency, we can help to reduce the environmental impact of these technologies and make them more cost-effective.
+Nature has evolved multiscaled structures, balancing convective and diffusive flows for efficient tranport in plants. We take inspirtation from such structures to enhance transport of energy and mass in engineering systems. 
+
+Our research addresses applications in heat exchange, microfluidics and forensics.
+
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leaf" width="40%">
   
@@ -69,7 +70,9 @@ Our research focuses on using bio-inspired designs to improve the performance of
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
 ## Phase change dynamics <a id="PhaseChange"> 
-  
+
+Phase change phenomena like condensation and boiling are ubiquitous, from industrial processes to household equipment. Using unique surface interactions, we investigate and control phase change dynamics of soft matter for a range of applications in power generation, heat exchange and water purification.
+
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%">
   
@@ -92,14 +95,14 @@ Our research focuses on using bio-inspired designs to improve the performance of
   
   
 ## Surface coatings <a id="SurfaceCoatings"> 
+
+Nature provides several fascinating examples of liquid repellent coatings, e.g., lotus leaves, desert beetles and pitcher plants. Through a combination of chemical and physical properties, we develop and deploy various oil and water repellant surface coatings, towards applications in self-cleaning, anti-icing, food packaging and fog-collection
+
 <font size="2">
 <ul type="square">  
   <li> M.H. Biroun, L. Haworth, <u>P. Agrawal</u>, B. Orme, G. McHale, H. Torun, M. Rahmati, and Y. Fu, <i>Surface Acoustic Waves to Control Droplet Impact onto Superhydrophobic and Slippery Liquid-Infused Porous Surfaces</i>, <a href="https://pubs.acs.org/doi/full/10.1021/acsami.1c09217">ACS Applied Material Interfaces, 13, 38, 46076–46087, 2021</a></li>
 </ul>
 </font>
-
-
-
 
 [Navigate to top](#Top_of_page){: .btn .btn--inverse .btn--small}
 
