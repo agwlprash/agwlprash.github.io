@@ -29,7 +29,7 @@ The ability to manipulate particulates has a range of applications in process in
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">{: .align-center}
    
 <b>Research Funding:</b> <a href="https://northernaccelerator.org/">Northern Accelerator</a>, <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a>
   
@@ -71,11 +71,12 @@ Nature has evolved multi-scaled structures, balancing convective and diffusive f
 Phase change phenomena like condensation and boiling are ubiquitous, from industrial processes to household equipment. Using unique surface interactions, we investigate and control phase change dynamics of soft matter for a range of applications in power generation, heat exchange and water purification.
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">{: .align-center}
+  
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%"> -->  
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%"> -->
-  
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">{: .align-center}
   
 #### Key publications
 <font size="2">
@@ -105,7 +106,7 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
 ## Research facilities and capabilities <a id="ResearchCap"> 
 
 <ul type="square">  
-  <li>High-speed imaging</li>
+  <li>High-speed imaging
     <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/high_speed_impact.gif" alt="chamber" width="50%">&nbsp;</li> 
   <li>Thermal imaging</li>
   <li>Environmental control systems</li>
