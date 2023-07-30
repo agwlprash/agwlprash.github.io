@@ -47,10 +47,7 @@ The ability to manipulate particulates has a range of applications in process in
 
 ## Capillary networks for transport <a id="CapillaryNetworks"> 
 
-Nature has evolved multiscaled structures, balancing convective and diffusive flows for efficient tranport in plants. We take inspirtation from such structures to enhance transport of energy and mass in engineering systems. 
-
-Our research addresses applications in heat exchange, microfluidics and forensics.
-
+Nature has evolved multi-scaled structures, balancing convective and diffusive flows for efficient tranport in plants. We take inspirtation from such features to investigate and enhance transport of energy and mass in engineering systems for applications in heat exchange, microfluidics and forensics.
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LMM.png" alt="Leaf" width="40%">
   
@@ -109,6 +106,7 @@ Nature provides several fascinating examples of liquid repellent coatings, e.g.,
 
 <ul type="square">  
   <li>High-speed imaging</li>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/high_speed_impact.gif" alt="chamber" width="50%">&nbsp;</li> 
   <li>Thermal imaging</li>
   <li>Environmental control systems</li>
   <li>Soft lithography</li>
