@@ -29,7 +29,7 @@ The ability to manipulate particulates has a range of applications in process in
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/hori_wave.gif" alt="chamber" width="40%">&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/glass_part_collect_matlab.gif" alt="Collect" width="40%">
   
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="40%">{: .align-center}
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFVparticle.png" alt="sims" width="60%">{: .align-center}
    
 <b>Research Funding:</b> <a href="https://northernaccelerator.org/">Northern Accelerator</a>, <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a>
   
