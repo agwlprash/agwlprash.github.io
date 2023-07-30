@@ -74,12 +74,11 @@ Our research addresses applications in heat exchange, microfluidics and forensic
 Phase change phenomena like condensation and boiling are ubiquitous, from industrial processes to household equipment. Using unique surface interactions, we investigate and control phase change dynamics of soft matter for a range of applications in power generation, heat exchange and water purification.
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroplevitating.gif" alt="LFdroplevit" width="40%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%">
-  
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroptranslation.gif" alt="LFdroptrans" width="40%"> -->  
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/levitation4.png" alt="LFengine" width="40%"> -->
   
   <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFdroprotation.gif" alt="LFdroprotat" width="40%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/researchims/LFplaterotation.gif" alt="LFdropplate" width="40%">{: .align-center}
   
 #### Key publications
 <font size="2">
